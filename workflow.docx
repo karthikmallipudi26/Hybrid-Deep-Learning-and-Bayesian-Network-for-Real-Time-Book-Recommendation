@@ -1,0 +1,70 @@
+WORKFLOW PIPELINE:
+PART A :
+•  DL candidate generation (Top-N)
+•	Your transformer/embedding + vector search returns a ranked candidate list of Top-N books for a user (e.g. N = 50). Each candidate row contains at least: isbn13, dl_score (similarity), genre, optionally num_pages, popularity, etc.
+•  Per-candidate BN posterior
+•	For each candidate c, you form evidence = user_evidence ∪ candidate_features where user_evidence might include:
+o	UserPreference (cluster label from KMeans)
+o	Sentiment (Positive/Neutral/Negative)
+o	any explicit choices from UI
+•	Candidate features typically include: Genre_small (or genre), ReadLength, Popularity.
+•	You query the BN: p_yes = P(Recommendation = 'Yes' | evidence_for_candidate). That single probability is the BN’s belief the user will like that candidate.
+•  Combine DL score + BN posterior → final score
+•	Final score = dl_score * (alpha * p_yes + (1 - alpha))
+•	alpha controls how much BN influences ranking. Typical starting range: alpha = 0.6..0.9. (Tune later on validation.)
+•  Sort & select top-K
+•	Sort the Top-N by final_score, pick Top-K (e.g., K = 10). That’s the list shown to the user.
+•  Produce “why” explanations
+•	For each recommended item show:
+o	The BN posterior p_yes (e.g. 0.82) and the DL similarity.
+o	Top contributing nodes and short texts like:
+	UserPreference = AuthorLoyal (P=0.72)
+	Genre_small = Fantasy (P(Genre|UserPref)=0.85)
+o	A one-liner: “Recommended because your profile (AuthorLoyal) and positive sentiment increase the probability of liking Fantasy books (BN posterior 0.82), and this book has high semantic similarity (DL score 0.93).”
+•	Implementation detail: the explanation is built by querying node marginals like P(node=value | evidence_without_node) to show how much each node supports the recommendation (we already provided helper functions that do exactly this)
+
+PART B :
+•  Run Sentiment notebook
+•	Produces/updates data/processed/books_cleaned_bn.csv with dominant_emotion.
+•	(File used by BN and by UI mapping.)
+•  Generate item embeddings & index (vector_search.ipynb)
+•	Save models/embeddings_by_isbn.pkl and models/vector_index.faiss (or equivalent).
+•	Also create a function that returns Top-N candidates for a user query and writes them to a DataFrame candidates_df with columns isbn13, dl_score, genre, num_pages, popularity.
+•  Create / verify user interactions (data/processed/user_item_interactions.csv)
+•	If you have real logs/ratings, place them here. If not, create a synthetic small interactions file for development.
+•  Run cluster prefs (cluster_preferences.ipynb)
+•	Input: user_item_interactions.csv + embeddings_by_isbn.pkl (if available).
+•	Output: data/processed/user_preferences.csv with user_id, UserPreference (human label mapping).
+•	IMPORTANT: this makes UserPreference meaningful.
+•  Fit BN structure & parameters (bn_build_and_fit.ipynb)
+•	Input: data/processed/books_cleaned_bn.csv, data/processed/bn_data.csv (if interactions), data/processed/user_preferences.csv.
+•	Output: models/fitted_bn.pkl (and data/processed/bn_data.csv saved).
+•	Note: Re-run this after step 4 so BN includes UserPreference CPTs.
+•  Load & test BN inference (bn_inference.ipynb)
+•	Loads models/fitted_bn.pkl.
+•	Use the infer_recommendation_prob(evidence) and rerank_candidates() helpers to test a few users and candidates manually.
+•	Output: sanity checks and sample explanations.
+•  Re-ranking stage (integration point) — This is where you modify your vector search or Gradio notebook to call BN:
+•	After your vector search returns candidates_df (Top-N), call:
+•	Display top_k and explanation in UI.
+•  Rerank utilities (optional enhancement) (bn_rerank_utils.ipynb)
+•	Merge bn posterior with book_metadata for popularity/novelty/cluster boosts.
+•	Use this if you want advanced business logic (diversity, novelty).
+•  Evaluation (bn_evaluation.ipynb)
+•	Use held-out interactions to evaluate baseline DL vs BN+DL (precision@K, MRR).
+•	Tune alpha, BN smoothing (equivalent_sample_size), and sampling size.
+•  Cache & performance (important for production/development)
+•	Precompute P(Recommendation | UserPreference, Genre_small) table for all combinations and cache it (faster than per-candidate inference).
+•	Use sampling fallback sample_size=1000 for per-request speed, increase for offline evaluation
+
+Final checklist (execute in this order)
+1.	Run data-exploration.ipynb → creates data/processed/books_cleaned_bn.csv.
+2.	Run sentiment_analysis.ipynb → updates dominant_emotion.
+3.	Run vector_search.ipynb → create models/embeddings_by_isbn.pkl and function get_top_n(user, n).
+4.	Create/ensure data/processed/user_item_interactions.csv.
+5.	Run cluster_preferences.ipynb → create data/processed/user_preferences.csv.
+6.	Run bn_build_and_fit.ipynb → create models/fitted_bn.pkl.
+7.	Run bn_inference.ipynb → sanity check inference functions.
+8.	Modify vector_search / Gradio notebook: call rerank_candidates() and explain_recommendation() as shown.
+9.	Run bn_evaluation.ipynb offline to tune alpha and sampling params.
+10.	Add caching/precomputation for fast production inference.... this is my project so for just first review i dont need the entire project i want to show the cpt tables generated/parameter learning and other bn related things for probability and semantic score in dl thats it so according this what should i do from begining for just this review

@@ -1,0 +1,1541 @@
+Sentiment,UserPreference,Genre_small,Popularity,ReadLength,Recommendation,__synthetic__
+Neutral,CasualReader,Diary fiction,Very High,long,Yes,False
+Neutral,CasualReader,Diary fiction,Very High,long,Yes,False
+Neutral,CasualReader,Art,Very High,short,Yes,False
+Positive,CasualReader,Photography,High,short,Yes,False
+Neutral,CasualReader,"Body, Mind & Spirit",Very High,medium,Yes,False
+Negative,CasualReader,Fiction,Very High,medium,Yes,False
+Neutral,CasualReader,Religion,High,medium,No,False
+Neutral,CasualReader,Biography & Autobiography,Very High,medium,Yes,False
+Negative,CasualReader,"Persian Gulf War, 1991",Very High,long,Yes,False
+Negative,CasualReader,"Persian Gulf War, 1991",Very High,long,Yes,False
+Negative,CasualReader,Fiction,High,medium,Yes,False
+Neutral,CasualReader,Fiction,Very High,long,Yes,False
+Neutral,CasualReader,Comics & Graphic Novels,Very High,short,Yes,False
+Neutral,CasualReader,Fiction,Very High,long,Yes,False
+Neutral,CasualReader,Fiction,Very High,medium,Yes,False
+Neutral,CasualReader,Fiction,Very High,medium,Yes,False
+Neutral,CasualReader,Accidents,Very High,medium,Yes,False
+Neutral,CasualReader,Accidents,Very High,medium,Yes,False
+Negative,CasualReader,Galicia (Spain : Region),Very High,short,Yes,False
+Neutral,CasualReader,Fiction,Very High,medium,Yes,False
+Neutral,CasualReader,Fiction,High,medium,Yes,False
+Negative,CasualReader,Fiction,Very High,medium,Yes,False
+Neutral,CasualReader,Juvenile Nonfiction,High,short,Yes,False
+Neutral,CasualReader,Biography & Autobiography,Very High,medium,Yes,False
+Positive,AuthorLoyal,Boats and boating,High,medium,Yes,False
+Positive,AuthorLoyal,Boats and boating,High,medium,Yes,False
+Neutral,AuthorLoyal,Confianza en sí mismo,High,medium,Yes,False
+Neutral,AuthorLoyal,Confianza en sí mismo,High,medium,Yes,False
+Negative,AuthorLoyal,Religion,Very High,medium,Yes,False
+Positive,AuthorLoyal,Short stories,Medium,medium,No,False
+Neutral,AuthorLoyal,Fiction,Very High,short,Yes,False
+Negative,AuthorLoyal,Juvenile Fiction,High,long,No,False
+Positive,AuthorLoyal,Amish,Very High,long,Yes,False
+Neutral,AuthorLoyal,Nature,Very High,short,Yes,False
+Negative,CasualReader,"Authors, Cuban",Very High,medium,Yes,False
+Negative,CasualReader,"Authors, Cuban",Very High,medium,Yes,False
+Neutral,CasualReader,History,Very High,long,Yes,False
+Neutral,CasualReader,Language Arts & Disciplines,Very High,medium,Yes,False
+Neutral,CasualReader,Business & Economics,Very High,medium,Yes,False
+Negative,CasualReader,Fiction,Very High,medium,Yes,False
+Negative,CasualReader,Humor,Very High,short,Yes,False
+Neutral,CasualReader,Dead,Very High,medium,Yes,False
+Neutral,AuthorLoyal,Cancer,Very High,medium,Yes,False
+Positive,AuthorLoyal,Cancer,Very High,medium,Yes,False
+Positive,AuthorLoyal,Cancer,Very High,medium,Yes,False
+Neutral,AuthorLoyal,Cancer,Very High,medium,Yes,False
+Positive,AuthorLoyal,Science,Very High,medium,Yes,False
+Positive,AuthorLoyal,Cookery,Very High,medium,Yes,False
+Positive,AuthorLoyal,Americans,Very High,medium,Yes,False
+Neutral,AuthorLoyal,Social Science,Very High,short,Yes,False
+Neutral,AuthorLoyal,Fiction,Very High,medium,Yes,False
+Neutral,AuthorLoyal,Fiction,Very High,medium,Yes,False
+Negative,AuthorLoyal,Classical fiction,Very High,medium,Yes,False
+Negative,AuthorLoyal,Classical fiction,Very High,medium,Yes,False
+Negative,AuthorLoyal,Classical fiction,Very High,medium,Yes,False
+Neutral,AuthorLoyal,Classical fiction,Very High,long,Yes,False
+Neutral,AuthorLoyal,Classical fiction,Very High,long,Yes,False
+Negative,AuthorLoyal,Classical fiction,Very High,medium,Yes,False
+Neutral,AuthorLoyal,"Short stories, English",Very High,long,Yes,False
+Neutral,AuthorLoyal,"Short stories, English",Very High,long,Yes,False
+Positive,AuthorLoyal,Juvenile Fiction,High,short,No,False
+Neutral,AuthorLoyal,Literary Criticism,Very High,long,Yes,False
+Neutral,AuthorLoyal,Juvenile Fiction,Very High,medium,Yes,False
+Neutral,AuthorLoyal,Literary Criticism,Very High,short,Yes,False
+Negative,AuthorLoyal,Fiction,Very High,medium,Yes,False
+Negative,AuthorLoyal,Fiction,Very High,long,Yes,False
+Negative,AuthorLoyal,Belgians,Very High,medium,Yes,False
+Neutral,AuthorLoyal,Belgians,Very High,medium,Yes,False
+Neutral,AuthorLoyal,Sexual behavior surveys,High,long,Yes,False
+Negative,AuthorLoyal,Belgians,Very High,medium,Yes,False
+Neutral,AuthorLoyal,Sexual behavior surveys,High,long,Yes,False
+Neutral,AuthorLoyal,Belgians,Very High,medium,Yes,False
+Positive,AuthorLoyal,"Body, Mind & Spirit",High,short,No,False
+Negative,AuthorLoyal,Fiction,Medium,medium,No,False
+Negative,AuthorLoyal,Fiction,Very High,long,Yes,False
+Neutral,AuthorLoyal,Medical,Very High,medium,Yes,False
+Negative,AuthorLoyal,Fantasy fiction,Very High,medium,Yes,False
+Neutral,AuthorLoyal,Religion,Medium,medium,No,False
+Negative,AuthorLoyal,Medical,Very High,medium,Yes,False
+Neutral,AuthorLoyal,Medical,Very High,medium,Yes,False
+Negative,AuthorLoyal,Medical,Very High,long,Yes,False
+Neutral,AuthorLoyal,Medical,Very High,long,Yes,False
+Positive,AuthorLoyal,Medical,Very High,medium,Yes,False
+Neutral,AuthorLoyal,Christmas stories,Medium,medium,Yes,False
+Neutral,AuthorLoyal,Medical,Medium,long,Yes,False
+Neutral,AuthorLoyal,Medical,Very High,medium,Yes,False
+Neutral,AuthorLoyal,Medical,Medium,medium,Yes,False
+Neutral,AuthorLoyal,Medical,High,long,Yes,False
+Neutral,AuthorLoyal,Medical,Very High,long,Yes,False
+Neutral,AuthorLoyal,Medical,Medium,long,No,False
+Negative,AuthorLoyal,Medical,Very High,long,Yes,False
+Neutral,AuthorLoyal,Medical,Very High,short,Yes,False
+Neutral,AuthorLoyal,Philosophy,Very High,short,Yes,False
+Neutral,AuthorLoyal,Fiction,Very High,long,Yes,False
+Neutral,AuthorLoyal,Fiction,Very High,long,Yes,False
+Neutral,AuthorLoyal,Philosophy,Very High,long,Yes,False
+Neutral,AuthorLoyal,Fiction,Very High,medium,Yes,False
+Neutral,AuthorLoyal,Biography & Autobiography,Very High,long,Yes,False
+Neutral,CasualReader,Art,Very High,medium,Yes,False
+Neutral,CasualReader,Art,High,long,Yes,False
+Positive,CasualReader,Art,Very High,long,Yes,False
+Neutral,CasualReader,Art,High,short,Yes,False
+Neutral,CasualReader,Art,Very High,medium,Yes,False
+Neutral,CasualReader,Art,Very High,long,Yes,False
+Neutral,CasualReader,Art,High,medium,Yes,False
+Neutral,CasualReader,Art,Very High,short,Yes,False
+Neutral,CasualReader,Art,Very High,short,Yes,False
+Positive,CasualReader,Art,Medium,short,Yes,False
+Neutral,CasualReader,Art,High,short,Yes,False
+Neutral,CasualReader,Art,Very High,long,Yes,False
+Neutral,CasualReader,Art,Very High,medium,Yes,False
+Positive,CasualReader,Art,High,short,Yes,False
+Neutral,CasualReader,Fiction,Very High,medium,Yes,False
+Neutral,CasualReader,Fiction,Very High,long,Yes,False
+Neutral,CasualReader,Philosophy,High,medium,No,False
+Neutral,CasualReader,Fiction,High,short,No,False
+Negative,CasualReader,Fiction,Very High,long,Yes,False
+Positive,CasualReader,Fiction,Very High,long,Yes,False
+Neutral,AuthorLoyal,Gardening,Low,medium,No,False
+Neutral,AuthorLoyal,Gardening,Medium,short,No,False
+Neutral,AuthorLoyal,Gardening,Very High,medium,Yes,False
+Neutral,AuthorLoyal,"Baggins, Frodo (Fictitious character)",Very High,long,Yes,False
+Positive,AuthorLoyal,Gardening,High,short,Yes,False
+Positive,AuthorLoyal,"Baggins, Frodo (Fictitious character)",Very High,long,Yes,False
+Neutral,AuthorLoyal,Gardening,Very High,medium,Yes,False
+Neutral,AuthorLoyal,Gardening,Medium,short,Yes,False
+Neutral,AuthorLoyal,"Baggins, Frodo (Fictitious character)",High,long,Yes,False
+Positive,AuthorLoyal,"Baggins, Frodo (Fictitious character)",Very High,long,Yes,False
+Neutral,AuthorLoyal,Gardening,Low,medium,Yes,False
+Neutral,AuthorLoyal,Gardening,Medium,short,Yes,False
+Neutral,AuthorLoyal,Music,High,medium,Yes,False
+Negative,AuthorLoyal,Biography & Autobiography,Very High,medium,Yes,False
+Neutral,AuthorLoyal,Dreams,High,medium,No,False
+Negative,AuthorLoyal,Juvenile Fiction,Very High,medium,Yes,False
+Negative,AuthorLoyal,Fiction,Very High,medium,Yes,False
+Neutral,AuthorLoyal,Fiction,Very High,medium,Yes,False
+Neutral,CasualReader,Rock musicians,Very High,medium,Yes,False
+Neutral,CasualReader,Rock musicians,Very High,medium,Yes,False
+Positive,CasualReader,"Humorous stories, American",Very High,long,Yes,False
+Positive,CasualReader,"Humorous stories, American",Very High,long,Yes,False
+Negative,CasualReader,Fiction,Very High,medium,Yes,False
+Positive,CasualReader,Fiction,Very High,long,Yes,False
+Negative,CasualReader,Authors,High,long,No,False
+Neutral,CasualReader,Business & Economics,Very High,medium,Yes,False
+Negative,CasualReader,Fiction,Very High,long,Yes,False
+Neutral,CasualReader,Fiction,Very High,medium,Yes,False
+Negative,CasualReader,Animal sanctuaries,Very High,long,Yes,False
+Negative,CasualReader,Animal sanctuaries,Very High,long,Yes,False
+Negative,CasualReader,Fiction,Very High,medium,Yes,False
+Neutral,CasualReader,Foreign Language Study,High,long,Yes,False
+Positive,CasualReader,other,Very High,medium,Yes,False
+Negative,CasualReader,Detective and mystery stories,Very High,medium,Yes,False
+Neutral,CasualReader,Bracelets,Very High,medium,Yes,False
+Neutral,CasualReader,Fiction,Very High,long,Yes,False
+Negative,AuthorLoyal,African Americans,Very High,short,Yes,False
+Negative,AuthorLoyal,"Africa, East",High,long,Yes,False
+Negative,AuthorLoyal,African Americans,Very High,short,Yes,False
+Neutral,AuthorLoyal,African Americans,Very High,long,Yes,False
+Positive,AuthorLoyal,African Americans,Very High,medium,Yes,False
+Neutral,AuthorLoyal,African Americans,Very High,long,Yes,False
+Negative,AuthorLoyal,"Africa, East",High,long,Yes,False
+Negative,AuthorLoyal,England,Very High,medium,Yes,False
+Neutral,AuthorLoyal,Fiction,Very High,long,Yes,False
+Neutral,AuthorLoyal,Business & Economics,Very High,long,Yes,False
+Neutral,AuthorLoyal,Fiction,Very High,medium,Yes,False
+Neutral,AuthorLoyal,Fiction,Very High,long,Yes,False
+Positive,AuthorLoyal,Fiction,Very High,medium,Yes,False
+Neutral,AuthorLoyal,Apartment houses,High,medium,Yes,False
+Neutral,AuthorLoyal,Apartment houses,High,medium,Yes,False
+Negative,AuthorLoyal,Fiction,Very High,long,Yes,False
+Positive,AuthorLoyal,Juvenile Fiction,High,short,Yes,False
+Neutral,AuthorLoyal,Biography & Autobiography,Very High,medium,Yes,False
+Neutral,AuthorLoyal,Literary Criticism,Medium,short,No,False
+Neutral,AuthorLoyal,Argentine literature,Very High,long,Yes,False
+Neutral,AuthorLoyal,Juvenile Fiction,Very High,short,Yes,False
+Neutral,AuthorLoyal,Crafts & Hobbies,High,short,Yes,False
+Neutral,AuthorLoyal,Crafts & Hobbies,High,short,Yes,False
+Neutral,AuthorLoyal,Crafts & Hobbies,High,short,Yes,False
+Neutral,AuthorLoyal,Crafts & Hobbies,High,long,Yes,False
+Neutral,AuthorLoyal,Crafts & Hobbies,High,short,Yes,False
+Neutral,AuthorLoyal,Crafts & Hobbies,High,short,Yes,False
+Neutral,AuthorLoyal,Crafts & Hobbies,High,long,Yes,False
+Neutral,AuthorLoyal,Crafts & Hobbies,Low,short,Yes,False
+Neutral,AuthorLoyal,Crafts & Hobbies,High,short,Yes,False
+Negative,AuthorLoyal,Juvenile Fiction,Very High,short,Yes,False
+Negative,AuthorLoyal,History,High,short,Yes,False
+Negative,AuthorLoyal,Biography & Autobiography,Very High,medium,Yes,False
+Neutral,AuthorLoyal,Juvenile Fiction,Very High,medium,Yes,False
+Negative,AuthorLoyal,Fiction,Very High,medium,Yes,False
+Negative,AuthorLoyal,Games,High,medium,Yes,False
+Neutral,DiverseReader,Espionage,Very High,medium,Yes,False
+Neutral,DiverseReader,Germany,Low,short,Yes,False
+Neutral,DiverseReader,Espionage,Very High,medium,Yes,False
+Neutral,DiverseReader,Germany,Low,short,No,False
+Neutral,DiverseReader,Germany,Low,short,Yes,False
+Neutral,DiverseReader,Fiction,Very High,medium,Yes,False
+Neutral,DiverseReader,Fiction,Very High,medium,Yes,False
+Negative,DiverseReader,Fiction,Very High,long,Yes,False
+Positive,DiverseReader,Biography & Autobiography,Very High,long,Yes,False
+Negative,DiverseReader,Fiction,Very High,long,Yes,False
+Negative,DiverseReader,Detective and mystery stories,Very High,medium,Yes,False
+Neutral,CasualReader,Literary Collections,Very High,medium,Yes,False
+Negative,CasualReader,Literary Collections,Very High,short,Yes,False
+Neutral,CasualReader,Literary Collections,Very High,medium,Yes,False
+Negative,CasualReader,Literary Collections,High,long,Yes,False
+Neutral,CasualReader,Literary Collections,Very High,long,Yes,False
+Neutral,CasualReader,Literary Collections,Very High,medium,Yes,False
+Negative,CasualReader,Literary Collections,Very High,long,Yes,False
+Neutral,CasualReader,Literary Collections,Very High,medium,Yes,False
+Neutral,CasualReader,Literary Collections,Very High,medium,Yes,False
+Neutral,CasualReader,Literary Collections,Medium,medium,Yes,False
+Neutral,CasualReader,Literary Collections,High,long,Yes,False
+Positive,CasualReader,Literary Collections,Very High,long,Yes,False
+Negative,CasualReader,Literary Collections,Very High,medium,Yes,False
+Neutral,CasualReader,Literary Collections,Very High,medium,Yes,False
+Negative,CasualReader,Fiction,Very High,long,Yes,False
+Neutral,CasualReader,Fiction,Very High,long,Yes,False
+Neutral,CasualReader,Fiction,Very High,medium,Yes,False
+Neutral,CasualReader,Fiction,Very High,long,Yes,False
+Positive,CasualReader,Fiction,Very High,long,Yes,False
+Neutral,CasualReader,Art,High,medium,Yes,False
+Negative,AuthorLoyal,Historical fiction,High,medium,Yes,False
+Negative,AuthorLoyal,Historical fiction,High,medium,Yes,False
+Neutral,AuthorLoyal,Meditation,Low,medium,Yes,False
+Neutral,AuthorLoyal,Historical fiction,Very High,long,Yes,False
+Neutral,AuthorLoyal,Meditation,Low,medium,No,False
+Neutral,AuthorLoyal,Historical fiction,Very High,long,Yes,False
+Negative,AuthorLoyal,Fiction,Medium,medium,No,False
+Negative,AuthorLoyal,Fiction,Very High,medium,Yes,False
+Neutral,AuthorLoyal,Fiction,Very High,medium,Yes,False
+Negative,AuthorLoyal,History,Very High,long,Yes,False
+Neutral,AuthorLoyal,Literary Criticism,Very High,long,Yes,False
+Positive,AuthorLoyal,Adventure stories,Very High,short,Yes,False
+Negative,CasualReader,Friendship,High,short,Yes,False
+Negative,CasualReader,Friendship,High,short,Yes,False
+Negative,CasualReader,Friendship,Very High,long,Yes,False
+Negative,CasualReader,Friendship,Very High,long,Yes,False
+Negative,CasualReader,Adolescence,Very High,medium,Yes,False
+Neutral,CasualReader,Art,Very High,medium,Yes,False
+Neutral,CasualReader,Fiction,Very High,medium,Yes,False
+Neutral,CasualReader,Juvenile Fiction,Very High,medium,Yes,False
+Positive,CasualReader,Fiction,High,medium,Yes,False
+Neutral,CasualReader,Biography & Autobiography,Very High,long,Yes,False
+Neutral,DiverseReader,"Cooking, French",High,medium,Yes,False
+Neutral,DiverseReader,"Cooking, French",High,medium,Yes,False
+Negative,DiverseReader,"Authors, American",High,medium,Yes,False
+Neutral,DiverseReader,Juvenile Nonfiction,Very High,short,Yes,False
+Negative,DiverseReader,Comics & Graphic Novels,Very High,short,Yes,False
+Positive,DiverseReader,"Blake, Anita (Fictitious character)",Very High,medium,Yes,False
+Negative,DiverseReader,Detective and mystery stories,Very High,medium,Yes,False
+Neutral,DiverseReader,Literary Collections,Very High,long,Yes,False
+Negative,CasualReader,Demonology,Very High,long,Yes,False
+Negative,CasualReader,Demonology,Very High,long,Yes,False
+Positive,CasualReader,Dangerously mentally ill,Very High,long,Yes,False
+Positive,CasualReader,Dangerously mentally ill,Very High,long,Yes,False
+Neutral,CasualReader,Juvenile Fiction,Very High,medium,Yes,False
+Neutral,CasualReader,Comics & Graphic Novels,Very High,short,Yes,False
+Negative,CasualReader,Fiction,Very High,short,Yes,False
+Negative,CasualReader,Fiction,Very High,medium,Yes,False
+Negative,CasualReader,Comics & Graphic Novels,Very High,medium,Yes,False
+Positive,CasualReader,Fiction,Very High,short,Yes,False
+Neutral,AuthorLoyal,Adirondack Mountains (N.Y.),Very High,short,Yes,False
+Neutral,AuthorLoyal,Adirondack Mountains (N.Y.),Very High,short,Yes,False
+Negative,AuthorLoyal,Comics & Graphic Novels,Very High,medium,Yes,False
+Neutral,AuthorLoyal,Fiction,Very High,long,Yes,False
+Neutral,AuthorLoyal,Biography & Autobiography,Very High,medium,Yes,False
+Neutral,AuthorLoyal,First loves,Very High,short,Yes,False
+Neutral,AuthorLoyal,Juvenile Fiction,Medium,short,Yes,False
+Negative,AuthorLoyal,Alcestis (Greek mythology),High,long,Yes,False
+Neutral,CasualReader,Canadian wit and humor,Very High,medium,Yes,False
+Neutral,CasualReader,Canadian wit and humor,Very High,medium,Yes,False
+Neutral,CasualReader,Adult education,Very High,short,Yes,False
+Neutral,CasualReader,Adult education,Very High,short,Yes,False
+Negative,CasualReader,Comics & Graphic Novels,Very High,short,Yes,False
+Neutral,CasualReader,Fiction,Very High,medium,Yes,False
+Neutral,CasualReader,Political Science,Very High,long,Yes,False
+Neutral,CasualReader,Fiction,Very High,medium,Yes,False
+Neutral,CasualReader,Art,High,short,No,False
+Neutral,CasualReader,"Animals, Mythical",Very High,medium,Yes,False
+Neutral,AuthorLoyal,Botanique,Low,short,No,False
+Neutral,AuthorLoyal,Botanique,Low,short,Yes,False
+Neutral,AuthorLoyal,Botanique,Low,short,Yes,False
+Positive,AuthorLoyal,Poetry,Very High,short,Yes,False
+Neutral,AuthorLoyal,History,Very High,long,Yes,False
+Neutral,AuthorLoyal,Music,Medium,short,No,False
+Negative,AuthorLoyal,Literary Criticism,Very High,medium,Yes,False
+Negative,AuthorLoyal,Fiction,Very High,long,Yes,False
+Neutral,AuthorLoyal,Literary Criticism,High,short,No,False
+Neutral,AuthorLoyal,Folklore,Medium,short,No,False
+Neutral,AuthorLoyal,Folklore,Medium,short,Yes,False
+Neutral,AuthorLoyal,Consumer behavior,Medium,medium,Yes,False
+Neutral,AuthorLoyal,Folklore,Medium,short,Yes,False
+Neutral,AuthorLoyal,Consumer behavior,Medium,medium,No,False
+Neutral,AuthorLoyal,Consumer behavior,Medium,medium,Yes,False
+Neutral,AuthorLoyal,Biography & Autobiography,Very High,long,Yes,False
+Neutral,AuthorLoyal,Medical,Very High,medium,Yes,False
+Negative,AuthorLoyal,Fiction,Very High,medium,Yes,False
+Neutral,AuthorLoyal,Cooking,Very High,medium,Yes,False
+Negative,AuthorLoyal,Fiction,Very High,medium,Yes,False
+Negative,AuthorLoyal,Fiction,Very High,medium,Yes,False
+Positive,DiverseReader,Civil law,Very High,short,Yes,False
+Positive,DiverseReader,Civil law,Very High,short,Yes,False
+Negative,DiverseReader,Fiction,Very High,long,Yes,False
+Neutral,DiverseReader,Fiction,Very High,medium,Yes,False
+Neutral,DiverseReader,Juvenile Fiction,Very High,medium,Yes,False
+Neutral,DiverseReader,Fiction,Very High,long,Yes,False
+Positive,DiverseReader,Cooking,Very High,medium,Yes,False
+Negative,DiverseReader,Juvenile Fiction,Very High,short,Yes,False
+Positive,DiverseReader,Language and languages,Very High,medium,Yes,False
+Negative,DiverseReader,"Science fiction, American",Very High,medium,Yes,False
+Negative,DiverseReader,"Science fiction, American",Very High,medium,Yes,False
+Positive,DiverseReader,"Science fiction, American",High,long,Yes,False
+Positive,DiverseReader,"Science fiction, American",High,long,Yes,False
+Negative,DiverseReader,Biography & Autobiography,Very High,medium,Yes,False
+Neutral,DiverseReader,Biography & Autobiography,Very High,medium,Yes,False
+Positive,DiverseReader,Fiction,Very High,medium,Yes,False
+Negative,DiverseReader,Fiction,Very High,long,Yes,False
+Neutral,DiverseReader,History,Very High,long,Yes,False
+Negative,DiverseReader,Fiction,Very High,long,Yes,False
+Neutral,CasualReader,College teachers,Very High,short,Yes,False
+Neutral,CasualReader,College teachers,Very High,short,Yes,False
+Neutral,CasualReader,College teachers,Very High,short,Yes,False
+Neutral,CasualReader,Sex customs,Very High,short,Yes,False
+Neutral,CasualReader,Sex customs,Very High,short,Yes,False
+Negative,CasualReader,Misogyny,Very High,medium,Yes,False
+Neutral,CasualReader,"American wit and humor, Pictorial",Very High,short,Yes,False
+Negative,CasualReader,Elves,Very High,long,Yes,False
+Neutral,CasualReader,Juvenile Fiction,Very High,short,Yes,False
+Negative,CasualReader,Fiction,Very High,medium,Yes,False
+Negative,CasualReader,Fiction,Very High,long,Yes,False
+Neutral,AuthorLoyal,Health & Fitness,High,short,Yes,False
+Positive,AuthorLoyal,England,Very High,long,Yes,False
+Negative,AuthorLoyal,England,Very High,medium,Yes,False
+Positive,AuthorLoyal,Health & Fitness,Very High,medium,Yes,False
+Neutral,AuthorLoyal,Health & Fitness,Medium,medium,No,False
+Negative,AuthorLoyal,Health & Fitness,Very High,medium,Yes,False
+Neutral,AuthorLoyal,Health & Fitness,Very High,medium,Yes,False
+Neutral,AuthorLoyal,Health & Fitness,Very High,medium,Yes,False
+Neutral,AuthorLoyal,Health & Fitness,Low,short,Yes,False
+Neutral,AuthorLoyal,Health & Fitness,Very High,medium,Yes,False
+Negative,AuthorLoyal,Health & Fitness,Very High,long,Yes,False
+Neutral,AuthorLoyal,Health & Fitness,High,medium,Yes,False
+Neutral,AuthorLoyal,Health & Fitness,High,medium,Yes,False
+Neutral,AuthorLoyal,England,Very High,medium,Yes,False
+Positive,AuthorLoyal,Science,Very High,short,Yes,False
+Neutral,AuthorLoyal,Juvenile Fiction,Very High,short,Yes,False
+Neutral,AuthorLoyal,Performing Arts,Very High,long,Yes,False
+Neutral,AuthorLoyal,Cooking,Medium,short,No,False
+Negative,AuthorLoyal,Fiction,Very High,long,Yes,False
+Neutral,AuthorLoyal,Literary Criticism,High,medium,Yes,False
+Positive,DiverseReader,"Novelists, English",Low,short,Yes,False
+Neutral,DiverseReader,Estados Unidos - Relaciones exteriores - 1945-1989,Very High,long,Yes,False
+Neutral,DiverseReader,Estados Unidos - Relaciones exteriores - 1945-1989,Very High,long,Yes,False
+Positive,DiverseReader,"Novelists, English",Low,short,No,False
+Positive,DiverseReader,"Novelists, English",Low,short,Yes,False
+Neutral,DiverseReader,Biography & Autobiography,Medium,long,No,False
+Neutral,DiverseReader,Fiction,Very High,medium,Yes,False
+Negative,DiverseReader,Comics & Graphic Novels,Very High,medium,Yes,False
+Negative,DiverseReader,Education,Very High,medium,Yes,False
+Negative,DiverseReader,History,Very High,long,Yes,False
+Positive,DiverseReader,History,High,medium,Yes,False
+Neutral,GenreFan,Igbo (African people),High,short,Yes,False
+Neutral,GenreFan,Igbo (African people),High,short,Yes,False
+Positive,GenreFan,Fiction,Very High,medium,Yes,False
+Neutral,GenreFan,Design,Low,medium,Yes,False
+Neutral,GenreFan,Juvenile Fiction,Very High,short,Yes,False
+Neutral,GenreFan,Fiction,Very High,medium,Yes,False
+Positive,GenreFan,Fiction,Very High,long,Yes,False
+Neutral,GenreFan,Law,High,long,No,False
+Negative,CasualReader,Aging,Very High,short,Yes,False
+Negative,CasualReader,Aging,Very High,short,Yes,False
+Neutral,CasualReader,Political Science,Low,short,Yes,False
+Neutral,CasualReader,Fiction,Very High,medium,Yes,False
+Neutral,CasualReader,Family & Relationships,Very High,medium,Yes,False
+Negative,CasualReader,Juvenile Fiction,Very High,medium,Yes,False
+Negative,CasualReader,other,Very High,long,Yes,False
+Neutral,CasualReader,Fiction,Very High,medium,Yes,False
+Positive,DiverseReader,"Novelists, English",Low,short,Yes,False
+Positive,DiverseReader,"Novelists, English",Low,short,No,False
+Positive,DiverseReader,"Novelists, English",Low,short,Yes,False
+Neutral,DiverseReader,Science,High,medium,No,False
+Positive,DiverseReader,Computers,Very High,short,Yes,False
+Negative,DiverseReader,Young Adult Fiction,Very High,medium,Yes,False
+Negative,DiverseReader,Fiction,Very High,medium,Yes,False
+Positive,DiverseReader,other,Very High,short,Yes,False
+Positive,DiverseReader,History,Very High,medium,Yes,False
+Positive,AuthorLoyal,Animals,Very High,medium,Yes,False
+Positive,AuthorLoyal,Animals,Very High,medium,Yes,False
+Neutral,AuthorLoyal,Computer science,High,long,Yes,False
+Neutral,AuthorLoyal,Biography & Autobiography,Low,medium,Yes,False
+Neutral,AuthorLoyal,Fiction,Very High,medium,Yes,False
+Neutral,AuthorLoyal,Juvenile Fiction,Very High,short,Yes,False
+Positive,AuthorLoyal,Fiction,Very High,short,Yes,False
+Negative,AuthorLoyal,Autism,Very High,short,Yes,False
+Neutral,GenreFan,"Theology, Doctrinal",Very High,long,Yes,False
+Neutral,GenreFan,"Theology, Doctrinal",Very High,long,Yes,False
+Neutral,GenreFan,Literary Criticism,High,short,Yes,False
+Positive,GenreFan,Fiction,Very High,long,Yes,False
+Neutral,GenreFan,Fiction,Very High,long,Yes,False
+Neutral,GenreFan,Social Science,Very High,short,Yes,False
+Positive,GenreFan,Comics & Graphic Novels,High,medium,No,False
+Negative,GenreFan,Fiction,Very High,medium,Yes,False
+Neutral,AuthorLoyal,Bibles,Very High,long,Yes,False
+Negative,AuthorLoyal,Children of the rich,Very High,long,Yes,False
+Neutral,AuthorLoyal,Bibles,Very High,long,Yes,False
+Positive,AuthorLoyal,Children of the rich,High,medium,Yes,False
+Negative,AuthorLoyal,Children of the rich,Very High,long,Yes,False
+Neutral,AuthorLoyal,Bibles,High,short,Yes,False
+Neutral,AuthorLoyal,Bibles,High,short,Yes,False
+Neutral,AuthorLoyal,Bibles,Very High,long,Yes,False
+Negative,AuthorLoyal,Fiction,Very High,long,Yes,False
+Neutral,AuthorLoyal,Fiction,Very High,medium,Yes,False
+Neutral,AuthorLoyal,History,Very High,medium,Yes,False
+Positive,AuthorLoyal,Political Science,Very High,medium,Yes,False
+Positive,AuthorLoyal,Magic,Medium,medium,No,False
+Negative,AuthorLoyal,Fiction,Very High,medium,Yes,False
+Negative,CasualReader,Organized Crime,Medium,long,Yes,False
+Negative,CasualReader,Organized Crime,Medium,long,No,False
+Negative,CasualReader,Organized Crime,Medium,long,Yes,False
+Neutral,CasualReader,BIOGRAPHY & AUTOBIOGRAPHY,Low,long,No,False
+Negative,CasualReader,Fiction,Very High,long,Yes,False
+Neutral,CasualReader,Fiction,Very High,medium,Yes,False
+Negative,CasualReader,Drama,Very High,short,Yes,False
+Negative,CasualReader,Fiction,Very High,short,Yes,False
+Negative,CasualReader,Fiction,Very High,medium,Yes,False
+Negative,CasualReader,Obesity,Medium,short,Yes,False
+Negative,CasualReader,Obesity,Medium,short,No,False
+Negative,CasualReader,Obesity,Medium,short,Yes,False
+Neutral,CasualReader,Fiction,Very High,long,Yes,False
+Neutral,CasualReader,Computers,High,medium,No,False
+Negative,CasualReader,Fiction,Very High,long,Yes,False
+Positive,CasualReader,Juvenile Fiction,Very High,short,Yes,False
+Negative,CasualReader,Fiction,Very High,long,Yes,False
+Positive,CasualReader,Biography & Autobiography,Very High,medium,Yes,False
+Positive,DiverseReader,Civil law,Very High,short,Yes,False
+Positive,DiverseReader,Civil law,Very High,short,Yes,False
+Negative,DiverseReader,Fiction,Very High,medium,Yes,False
+Positive,DiverseReader,Juvenile Fiction,Very High,short,Yes,False
+Neutral,DiverseReader,Science,Very High,medium,Yes,False
+Neutral,DiverseReader,Adventure stories,Very High,short,Yes,False
+Negative,DiverseReader,Detective and mystery stories,Very High,medium,Yes,False
+Neutral,DiverseReader,Fiction,Very High,medium,Yes,False
+Neutral,GenreFan,Consumer behavior,Medium,medium,Yes,False
+Neutral,GenreFan,Consumer behavior,Medium,medium,No,False
+Neutral,GenreFan,Consumer behavior,Medium,medium,Yes,False
+Neutral,GenreFan,Poetry,Very High,long,Yes,False
+Positive,GenreFan,Comics & Graphic Novels,Very High,short,Yes,False
+Negative,GenreFan,"Detective and mystery stories, American",Very High,long,Yes,False
+Positive,GenreFan,Juvenile Nonfiction,High,short,No,False
+Neutral,GenreFan,Self-Help,Very High,short,Yes,False
+Neutral,GenreFan,Humor,Very High,medium,Yes,False
+Negative,DiverseReader,"Novelists, American",Very High,medium,Yes,False
+Negative,DiverseReader,"Novelists, American",Very High,medium,Yes,False
+Neutral,DiverseReader,History,Very High,medium,Yes,False
+Positive,DiverseReader,Air pilots,Very High,medium,Yes,False
+Negative,DiverseReader,Fiction,Very High,medium,Yes,False
+Neutral,DiverseReader,History,Very High,medium,Yes,False
+Neutral,DiverseReader,Social Science,Very High,medium,Yes,False
+Neutral,DiverseReader,Self-Help,Very High,long,Yes,False
+Negative,DiverseReader,China,Very High,short,Yes,False
+Neutral,DiverseReader,Christianity,Very High,long,Yes,False
+Positive,DiverseReader,Christianity,Very High,short,Yes,False
+Negative,DiverseReader,China,Very High,short,Yes,False
+Neutral,DiverseReader,Christianity,Very High,long,Yes,False
+Positive,DiverseReader,Christianity,Very High,short,Yes,False
+Neutral,DiverseReader,Fiction,Very High,medium,Yes,False
+Negative,DiverseReader,Fiction,Very High,long,Yes,False
+Neutral,DiverseReader,"Body, Mind & Spirit",Very High,long,Yes,False
+Neutral,DiverseReader,Fiction,Very High,medium,Yes,False
+Positive,DiverseReader,Religion,Very High,short,Yes,False
+Negative,DiverseReader,Humor,Very High,short,Yes,False
+Negative,CasualReader,Brothers and sisters,Very High,medium,Yes,False
+Negative,CasualReader,Brothers and sisters,Very High,medium,Yes,False
+Neutral,CasualReader,Children's plays,High,medium,Yes,False
+Neutral,CasualReader,Children's plays,High,medium,Yes,False
+Negative,CasualReader,Fiction,Very High,short,Yes,False
+Negative,CasualReader,Fiction,High,long,Yes,False
+Negative,CasualReader,Fiction,Very High,medium,Yes,False
+Negative,CasualReader,Fiction,Very High,medium,Yes,False
+Neutral,CasualReader,Fiction,Very High,long,Yes,False
+Neutral,CasualReader,Fiction,Very High,medium,Yes,False
+Neutral,AuthorLoyal,Paris (France),Low,medium,Yes,False
+Positive,AuthorLoyal,Amish,Very High,long,Yes,False
+Neutral,AuthorLoyal,Paris (France),Low,medium,Yes,False
+Neutral,AuthorLoyal,Paris (France),Low,medium,No,False
+Positive,AuthorLoyal,Amish,Very High,long,Yes,False
+Positive,AuthorLoyal,Fiction,Very High,medium,Yes,False
+Positive,AuthorLoyal,History,Very High,medium,Yes,False
+Neutral,AuthorLoyal,Nature,Very High,long,Yes,False
+Neutral,AuthorLoyal,"Body, Mind & Spirit",Very High,long,Yes,False
+Neutral,AuthorLoyal,Law,Medium,long,No,False
+Neutral,AuthorLoyal,Philosophy,Very High,long,Yes,False
+Negative,AuthorLoyal,Children of Holocaust survivors,Very High,medium,Yes,False
+Negative,AuthorLoyal,Children of Holocaust survivors,Very High,medium,Yes,False
+Neutral,AuthorLoyal,Fiction,Very High,long,Yes,False
+Neutral,AuthorLoyal,Fiction,Very High,medium,Yes,False
+Positive,AuthorLoyal,Religion,Very High,short,Yes,False
+Neutral,AuthorLoyal,Fiction,Very High,long,Yes,False
+Neutral,AuthorLoyal,Juvenile Fiction,Very High,medium,Yes,False
+Negative,AuthorLoyal,Juvenile Fiction,Very High,short,Yes,False
+Neutral,AuthorLoyal,Christmas stories,Medium,medium,Yes,False
+Neutral,AuthorLoyal,Christian life,Very High,short,Yes,False
+Neutral,AuthorLoyal,Christian life,Very High,short,Yes,False
+Neutral,AuthorLoyal,Christian life,Very High,short,Yes,False
+Neutral,AuthorLoyal,Christian life,Very High,short,Yes,False
+Negative,AuthorLoyal,Christmas stories,Very High,medium,Yes,False
+Neutral,AuthorLoyal,Christmas stories,Medium,medium,Yes,False
+Positive,AuthorLoyal,Christian life,Medium,medium,No,False
+Negative,AuthorLoyal,English fiction,Very High,medium,Yes,False
+Neutral,AuthorLoyal,Religion,Very High,short,Yes,False
+Neutral,AuthorLoyal,Fiction,Very High,medium,Yes,False
+Negative,AuthorLoyal,Fiction,Very High,medium,Yes,False
+Negative,AuthorLoyal,Fiction,Very High,long,Yes,False
+Negative,AuthorLoyal,Fiction,Very High,medium,Yes,False
+Positive,GenreFan,Clergy,Very High,long,Yes,False
+Positive,GenreFan,Clergy,Very High,long,Yes,False
+Neutral,GenreFan,Igbo (African people),High,short,No,False
+Negative,GenreFan,Fiction,Very High,long,Yes,False
+Neutral,GenreFan,Fiction,Very High,medium,Yes,False
+Neutral,GenreFan,Travel,High,long,No,False
+Neutral,GenreFan,Poetry,Very High,short,Yes,False
+Neutral,GenreFan,Fiction,Very High,long,Yes,False
+Negative,CasualReader,Boarding school-fiction,Very High,medium,Yes,False
+Negative,CasualReader,Boarding school-fiction,Very High,medium,Yes,False
+Neutral,CasualReader,Fiction,Very High,long,Yes,False
+Neutral,CasualReader,Philosophy,Very High,long,Yes,False
+Neutral,CasualReader,Fiction,Very High,medium,Yes,False
+Neutral,CasualReader,Fiction,Very High,medium,Yes,False
+Positive,CasualReader,Literary Collections,Very High,long,Yes,False
+Neutral,CasualReader,Fiction,Very High,medium,Yes,False
+Neutral,CasualReader,"Short stories, English",Very High,long,Yes,False
+Negative,CasualReader,Gambling,Very High,medium,Yes,False
+Negative,CasualReader,Gambling,Very High,medium,Yes,False
+Neutral,CasualReader,"Short stories, English",Very High,long,Yes,False
+Negative,CasualReader,Fiction,Very High,long,Yes,False
+Neutral,CasualReader,Philosophy,Very High,medium,Yes,False
+Neutral,CasualReader,Allegories,Very High,medium,Yes,False
+Neutral,CasualReader,Philosophy,Very High,long,Yes,False
+Negative,CasualReader,"Nanjing (Jiangsu Sheng, China)",High,medium,Yes,False
+Neutral,CasualReader,Fiction,Very High,long,Yes,False
+Positive,GenreFan,Arthurian romances,Very High,unknown,Yes,True
+Positive,CasualReader,Fiction,Very High,long,No,True
+Positive,GenreFan,"Hyland, Morn (Fictitious character)",Low,short,No,True
+Negative,GenreFan,,Low,short,No,True
+Positive,GenreFan,Fiction,Low,medium,No,True
+Positive,GenreFan,Fiction,Low,medium,Yes,True
+Negative,DiverseReader,Fiction,Medium,short,No,True
+Positive,GenreFan,Fiction,Medium,short,No,True
+Negative,GenreFan,"Hyland, Morn (Fictitious character)",Low,medium,No,True
+Negative,GenreFan,"Africa, East",Very High,unknown,No,True
+Neutral,CasualReader,Detective and mystery stories,Very High,medium,No,True
+Positive,GenreFan,Fiction,High,long,No,True
+Negative,DiverseReader,Adventure stories,Low,short,Yes,True
+Neutral,DiverseReader,Christian life,Low,medium,Yes,True
+Positive,GenreFan,Fiction,Medium,long,No,True
+Positive,GenreFan,Christian life,Very High,short,Yes,True
+Negative,DiverseReader,"Africa, East",Low,unknown,No,True
+Neutral,GenreFan,Arthurian romances,Very High,medium,No,True
+Positive,GenreFan,"Africa, East",Medium,long,Yes,True
+Positive,GenreFan,"Hyland, Morn (Fictitious character)",Very High,long,Yes,True
+Positive,AuthorLoyal,Fiction,Very High,long,No,True
+Neutral,DiverseReader,Adventure stories,Medium,short,Yes,True
+Neutral,CasualReader,Fiction,Low,long,No,True
+Positive,DiverseReader,Detective and mystery stories,Very High,medium,No,True
+Positive,CasualReader,,Low,unknown,Yes,True
+Neutral,CasualReader,Arthurian romances,High,long,No,True
+Neutral,AuthorLoyal,"Africa, East",Medium,short,Yes,True
+Neutral,GenreFan,Adventure stories,High,short,Yes,True
+Negative,DiverseReader,Detective and mystery stories,Very High,long,No,True
+Positive,CasualReader,Fantasy fiction,High,medium,No,True
+Positive,GenreFan,Christian life,Very High,short,Yes,True
+Positive,DiverseReader,Detective and mystery stories,Low,medium,Yes,True
+Negative,CasualReader,"Hyland, Morn (Fictitious character)",Medium,short,No,True
+Neutral,GenreFan,Arthurian romances,High,medium,Yes,True
+Neutral,CasualReader,Detective and mystery stories,Medium,medium,Yes,True
+Neutral,GenreFan,Detective and mystery stories,Very High,medium,No,True
+Positive,GenreFan,Adventure stories,Very High,long,No,True
+Neutral,GenreFan,"Hyland, Morn (Fictitious character)",Very High,long,Yes,True
+Neutral,GenreFan,"Africa, East",Very High,unknown,Yes,True
+Positive,GenreFan,Fiction,Medium,long,Yes,True
+Positive,GenreFan,Christian life,Very High,short,Yes,True
+Neutral,AuthorLoyal,Detective and mystery stories,Very High,unknown,Yes,True
+Neutral,AuthorLoyal,Fiction,High,unknown,Yes,True
+Neutral,GenreFan,Fantasy fiction,High,medium,No,True
+Negative,GenreFan,Fiction,Low,short,Yes,True
+Neutral,GenreFan,Fiction,Medium,long,Yes,True
+Neutral,DiverseReader,"Africa, East",Medium,medium,No,True
+Neutral,AuthorLoyal,"Africa, East",Very High,long,Yes,True
+Negative,GenreFan,Christian life,High,long,No,True
+Negative,GenreFan,"Hyland, Morn (Fictitious character)",Very High,unknown,Yes,True
+Positive,GenreFan,Fiction,Medium,short,Yes,True
+Neutral,AuthorLoyal,Adventure stories,Very High,medium,No,True
+Neutral,GenreFan,Fiction,Medium,long,No,True
+Negative,DiverseReader,"Africa, East",High,unknown,No,True
+Negative,CasualReader,"Hyland, Morn (Fictitious character)",Very High,short,Yes,True
+Neutral,AuthorLoyal,"Africa, East",Very High,medium,No,True
+Positive,GenreFan,Fiction,High,short,No,True
+Negative,GenreFan,Christian life,Very High,medium,No,True
+Positive,GenreFan,Christian life,Very High,unknown,Yes,True
+Negative,AuthorLoyal,Detective and mystery stories,Low,medium,No,True
+Negative,GenreFan,"Hyland, Morn (Fictitious character)",High,medium,No,True
+Negative,CasualReader,Detective and mystery stories,Medium,unknown,No,True
+Positive,DiverseReader,Christian life,Medium,medium,Yes,True
+Positive,CasualReader,Arthurian romances,Low,medium,Yes,True
+Positive,AuthorLoyal,"Africa, East",Very High,long,Yes,True
+Positive,DiverseReader,Detective and mystery stories,Medium,medium,Yes,True
+Neutral,GenreFan,Fiction,High,short,No,True
+Neutral,CasualReader,Adventure stories,Medium,short,Yes,True
+Positive,DiverseReader,Christian life,High,short,No,True
+Positive,DiverseReader,Detective and mystery stories,Medium,short,Yes,True
+Positive,CasualReader,Fiction,High,unknown,Yes,True
+Positive,GenreFan,Fiction,Very High,medium,Yes,True
+Neutral,DiverseReader,Christian life,Very High,long,No,True
+Neutral,AuthorLoyal,"Africa, East",Very High,long,No,True
+Neutral,CasualReader,"Africa, East",Very High,short,Yes,True
+Positive,DiverseReader,English drama,Medium,short,Yes,True
+Positive,GenreFan,,Medium,unknown,No,True
+Positive,AuthorLoyal,Detective and mystery stories,Low,long,Yes,True
+Neutral,DiverseReader,"Africa, East",Very High,long,Yes,True
+Neutral,DiverseReader,Detective and mystery stories,Medium,medium,Yes,True
+Positive,GenreFan,Detective and mystery stories,Medium,short,No,True
+Negative,AuthorLoyal,Christian life,Very High,medium,No,True
+Neutral,CasualReader,Arthurian romances,High,medium,Yes,True
+Positive,AuthorLoyal,Detective and mystery stories,Low,long,Yes,True
+Neutral,GenreFan,Fiction,Low,short,No,True
+Negative,CasualReader,Christian life,Very High,medium,No,True
+Positive,GenreFan,Detective and mystery stories,Medium,short,Yes,True
+Negative,GenreFan,Christian life,High,short,Yes,True
+Positive,DiverseReader,"Africa, East",Medium,long,Yes,True
+Negative,GenreFan,Christian life,Very High,short,No,True
+Negative,GenreFan,"Hyland, Morn (Fictitious character)",Very High,unknown,No,True
+Positive,GenreFan,Arthurian romances,Very High,short,Yes,True
+Neutral,GenreFan,Fiction,Very High,medium,Yes,True
+Negative,GenreFan,Arthurian romances,Very High,long,Yes,True
+Neutral,CasualReader,Arthurian romances,High,short,Yes,True
+Neutral,AuthorLoyal,Christian life,High,long,No,True
+Negative,AuthorLoyal,Fiction,High,short,No,True
+Negative,CasualReader,Arthurian romances,Low,short,No,True
+Positive,GenreFan,Arthurian romances,Medium,unknown,Yes,True
+Positive,DiverseReader,"Hyland, Morn (Fictitious character)",Low,long,No,True
+Positive,GenreFan,Detective and mystery stories,Medium,unknown,No,True
+Positive,AuthorLoyal,Detective and mystery stories,Very High,medium,Yes,True
+Positive,AuthorLoyal,Christian life,High,short,Yes,True
+Negative,GenreFan,Fiction,Very High,medium,No,True
+Positive,CasualReader,Fantasy fiction,Medium,short,Yes,True
+Neutral,GenreFan,Fiction,Very High,long,Yes,True
+Positive,CasualReader,Fiction,Low,medium,Yes,True
+Positive,GenreFan,Fiction,Very High,short,Yes,True
+Positive,GenreFan,Fiction,Medium,medium,No,True
+Neutral,CasualReader,Adventure stories,Very High,long,No,True
+Neutral,CasualReader,Detective and mystery stories,Medium,medium,Yes,True
+Neutral,GenreFan,Detective and mystery stories,High,long,Yes,True
+Neutral,GenreFan,Fiction,High,short,No,True
+Neutral,DiverseReader,Detective and mystery stories,Very High,medium,Yes,True
+Neutral,DiverseReader,Adventure stories,High,medium,No,True
+Neutral,DiverseReader,"Africa, East",Very High,medium,No,True
+Neutral,GenreFan,"Africa, East",Very High,medium,Yes,True
+Neutral,DiverseReader,Fiction,Very High,short,Yes,True
+Positive,AuthorLoyal,Detective and mystery stories,Very High,long,Yes,True
+Positive,DiverseReader,Arthurian romances,High,long,Yes,True
+Neutral,DiverseReader,Fiction,Medium,long,Yes,True
+Negative,GenreFan,Arthurian romances,High,short,No,True
+Neutral,GenreFan,Arthurian romances,High,short,No,True
+Neutral,AuthorLoyal,"Africa, East",Medium,long,No,True
+Positive,DiverseReader,Arthurian romances,High,long,Yes,True
+Positive,AuthorLoyal,Arthurian romances,Very High,long,No,True
+Neutral,GenreFan,"Hyland, Morn (Fictitious character)",Very High,long,No,True
+Positive,DiverseReader,"Africa, East",High,medium,Yes,True
+Neutral,GenreFan,Detective and mystery stories,Very High,short,Yes,True
+Neutral,GenreFan,Fiction,Very High,medium,No,True
+Positive,CasualReader,"Africa, East",High,short,Yes,True
+Neutral,DiverseReader,Detective and mystery stories,Medium,medium,No,True
+Positive,GenreFan,Fiction,Very High,short,Yes,True
+Negative,DiverseReader,Adventure stories,Medium,unknown,No,True
+Positive,AuthorLoyal,Detective and mystery stories,Very High,medium,Yes,True
+Negative,DiverseReader,Fiction,Medium,medium,No,True
+Neutral,DiverseReader,Fantasy fiction,Medium,medium,Yes,True
+Positive,AuthorLoyal,"Africa, East",Very High,long,Yes,True
+Neutral,CasualReader,Fiction,Medium,short,Yes,True
+Neutral,AuthorLoyal,Detective and mystery stories,Very High,medium,Yes,True
+Negative,GenreFan,"Hyland, Morn (Fictitious character)",High,long,No,True
+Negative,GenreFan,Christian life,High,long,Yes,True
+Neutral,CasualReader,Arthurian romances,Low,short,No,True
+Negative,CasualReader,Detective and mystery stories,Medium,short,No,True
+Neutral,DiverseReader,Arthurian romances,Medium,long,Yes,True
+Neutral,CasualReader,Fantasy fiction,High,medium,Yes,True
+Neutral,CasualReader,"Africa, East",High,short,Yes,True
+Neutral,GenreFan,Fiction,Very High,short,Yes,True
+Neutral,DiverseReader,"Africa, East",Medium,short,Yes,True
+Positive,GenreFan,Detective and mystery stories,Very High,short,Yes,True
+Positive,GenreFan,Fiction,Very High,medium,Yes,True
+Neutral,CasualReader,Fiction,Medium,long,Yes,True
+Positive,GenreFan,Christian life,Very High,medium,No,True
+Neutral,DiverseReader,Fiction,Low,short,Yes,True
+Neutral,DiverseReader,Fiction,Medium,long,No,True
+Neutral,CasualReader,Adventure stories,Medium,short,Yes,True
+Positive,DiverseReader,Detective and mystery stories,High,unknown,Yes,True
+Neutral,GenreFan,"Africa, East",Very High,medium,Yes,True
+Neutral,DiverseReader,Christian life,Medium,medium,Yes,True
+Neutral,DiverseReader,"Hyland, Morn (Fictitious character)",Medium,medium,Yes,True
+Positive,DiverseReader,"Hyland, Morn (Fictitious character)",Medium,unknown,No,True
+Positive,AuthorLoyal,Fantasy fiction,High,medium,Yes,True
+Neutral,GenreFan,Christian life,High,long,No,True
+Positive,AuthorLoyal,Detective and mystery stories,Very High,long,No,True
+Positive,GenreFan,Detective and mystery stories,Very High,unknown,Yes,True
+Positive,GenreFan,"Hyland, Morn (Fictitious character)",High,short,No,True
+Negative,GenreFan,Detective and mystery stories,High,short,No,True
+Positive,DiverseReader,Detective and mystery stories,Medium,long,No,True
+Neutral,CasualReader,"Hyland, Morn (Fictitious character)",Low,medium,No,True
+Neutral,GenreFan,Detective and mystery stories,High,long,Yes,True
+Positive,DiverseReader,English drama,Medium,unknown,No,True
+Positive,GenreFan,Fiction,Very High,short,Yes,True
+Negative,CasualReader,Detective and mystery stories,Very High,long,No,True
+Positive,DiverseReader,"Africa, East",High,short,Yes,True
+Positive,AuthorLoyal,"Hyland, Morn (Fictitious character)",Medium,short,No,True
+Negative,GenreFan,"Africa, East",Very High,short,Yes,True
+Neutral,CasualReader,Arthurian romances,Very High,unknown,No,True
+Neutral,AuthorLoyal,Detective and mystery stories,Very High,long,Yes,True
+Neutral,GenreFan,"Hyland, Morn (Fictitious character)",Very High,long,Yes,True
+Positive,GenreFan,Detective and mystery stories,Low,unknown,Yes,True
+Positive,GenreFan,Fiction,High,long,Yes,True
+Positive,CasualReader,"Africa, East",Medium,medium,No,True
+Positive,GenreFan,Adventure stories,High,short,Yes,True
+Neutral,DiverseReader,Fiction,High,medium,Yes,True
+Neutral,CasualReader,Arthurian romances,Low,short,Yes,True
+Neutral,GenreFan,"Hyland, Morn (Fictitious character)",High,medium,No,True
+Positive,DiverseReader,Detective and mystery stories,High,long,Yes,True
+Negative,GenreFan,"Hyland, Morn (Fictitious character)",Medium,unknown,No,True
+Positive,GenreFan,Detective and mystery stories,High,long,Yes,True
+Positive,AuthorLoyal,Detective and mystery stories,High,long,Yes,True
+Neutral,GenreFan,,Very High,long,No,True
+Positive,CasualReader,Arthurian romances,High,short,Yes,True
+Positive,AuthorLoyal,Arthurian romances,High,unknown,Yes,True
+Positive,AuthorLoyal,Detective and mystery stories,Medium,long,Yes,True
+Positive,GenreFan,Christian life,High,medium,No,True
+Positive,GenreFan,Fiction,High,unknown,Yes,True
+Neutral,GenreFan,Christian life,Medium,long,No,True
+Positive,GenreFan,Fiction,High,medium,Yes,True
+Negative,DiverseReader,Fiction,Medium,medium,Yes,True
+Neutral,GenreFan,Christian life,Very High,unknown,Yes,True
+Negative,CasualReader,"Africa, East",Low,long,No,True
+Positive,AuthorLoyal,"Hyland, Morn (Fictitious character)",Very High,long,No,True
+Positive,GenreFan,English drama,High,medium,Yes,True
+Positive,CasualReader,Arthurian romances,Low,short,Yes,True
+Negative,AuthorLoyal,"Hyland, Morn (Fictitious character)",High,long,No,True
+Neutral,GenreFan,"Hyland, Morn (Fictitious character)",Medium,medium,Yes,True
+Positive,GenreFan,Detective and mystery stories,Very High,long,Yes,True
+Negative,GenreFan,Detective and mystery stories,Medium,medium,Yes,True
+Positive,DiverseReader,Fantasy fiction,Very High,medium,Yes,True
+Neutral,AuthorLoyal,Christian life,Medium,medium,Yes,True
+Neutral,AuthorLoyal,Detective and mystery stories,High,long,Yes,True
+Neutral,GenreFan,Arthurian romances,High,unknown,No,True
+Positive,GenreFan,Arthurian romances,Very High,medium,Yes,True
+Negative,AuthorLoyal,Christian life,Medium,short,No,True
+Negative,GenreFan,Christian life,Very High,short,No,True
+Neutral,AuthorLoyal,Fiction,Low,medium,No,True
+Positive,GenreFan,,Low,unknown,Yes,True
+Neutral,DiverseReader,Detective and mystery stories,High,long,No,True
+Negative,AuthorLoyal,Fiction,Very High,long,No,True
+Positive,GenreFan,Fiction,Medium,long,No,True
+Neutral,CasualReader,"Africa, East",Low,medium,Yes,True
+Neutral,CasualReader,Detective and mystery stories,Low,unknown,No,True
+Neutral,GenreFan,Christian life,Very High,medium,Yes,True
+Neutral,GenreFan,"Hyland, Morn (Fictitious character)",Very High,short,Yes,True
+Positive,DiverseReader,Fantasy fiction,Medium,long,Yes,True
+Positive,GenreFan,Fiction,High,medium,Yes,True
+Neutral,GenreFan,Christian life,Very High,long,Yes,True
+Positive,CasualReader,Detective and mystery stories,Low,short,Yes,True
+Neutral,GenreFan,Fiction,High,long,Yes,True
+Neutral,GenreFan,Fiction,Medium,medium,Yes,True
+Negative,CasualReader,"Hyland, Morn (Fictitious character)",High,medium,No,True
+Negative,GenreFan,Fiction,Medium,long,No,True
+Negative,CasualReader,Fiction,Very High,long,No,True
+Neutral,GenreFan,"Africa, East",Very High,long,Yes,True
+Negative,CasualReader,"Africa, East",Very High,unknown,No,True
+Positive,GenreFan,Christian life,Very High,medium,Yes,True
+Positive,GenreFan,Detective and mystery stories,High,unknown,Yes,True
+Neutral,CasualReader,Detective and mystery stories,High,medium,Yes,True
+Positive,GenreFan,Fiction,Very High,medium,Yes,True
+Negative,CasualReader,,Medium,short,Yes,True
+Positive,GenreFan,Fiction,Medium,medium,Yes,True
+Neutral,GenreFan,Detective and mystery stories,Very High,unknown,No,True
+Negative,CasualReader,Arthurian romances,Very High,short,No,True
+Neutral,AuthorLoyal,Fiction,High,long,Yes,True
+Neutral,CasualReader,Detective and mystery stories,High,short,Yes,True
+Positive,GenreFan,"Hyland, Morn (Fictitious character)",Very High,medium,Yes,True
+Neutral,AuthorLoyal,Fiction,Low,long,No,True
+Positive,AuthorLoyal,"Africa, East",High,long,No,True
+Negative,DiverseReader,"Africa, East",Low,long,No,True
+Positive,DiverseReader,Christian life,Very High,medium,Yes,True
+Neutral,AuthorLoyal,Christian life,High,short,Yes,True
+Positive,GenreFan,Detective and mystery stories,Medium,medium,Yes,True
+Neutral,GenreFan,"Hyland, Morn (Fictitious character)",Medium,medium,No,True
+Neutral,GenreFan,Fiction,Very High,short,No,True
+Negative,DiverseReader,Christian life,Medium,unknown,No,True
+Positive,AuthorLoyal,"Hyland, Morn (Fictitious character)",Very High,long,Yes,True
+Neutral,GenreFan,Adventure stories,Very High,medium,Yes,True
+Negative,CasualReader,Arthurian romances,Very High,medium,No,True
+Negative,GenreFan,Fiction,Very High,short,Yes,True
+Neutral,GenreFan,Adventure stories,Medium,long,Yes,True
+Positive,GenreFan,Fiction,High,medium,Yes,True
+Neutral,CasualReader,Arthurian romances,Low,medium,No,True
+Negative,GenreFan,Fiction,Very High,long,No,True
+Positive,GenreFan,Fiction,Very High,medium,Yes,True
+Negative,GenreFan,Detective and mystery stories,Very High,unknown,No,True
+Neutral,DiverseReader,Christian life,Medium,short,No,True
+Positive,GenreFan,Adventure stories,High,short,Yes,True
+Positive,AuthorLoyal,Christian life,High,medium,Yes,True
+Neutral,AuthorLoyal,Fiction,Medium,medium,No,True
+Positive,CasualReader,Christian life,Low,short,Yes,True
+Positive,GenreFan,"Hyland, Morn (Fictitious character)",Medium,medium,Yes,True
+Neutral,GenreFan,Christian life,High,long,No,True
+Neutral,AuthorLoyal,"Africa, East",Very High,unknown,Yes,True
+Positive,GenreFan,Christian life,High,medium,Yes,True
+Negative,CasualReader,,High,medium,Yes,True
+Neutral,GenreFan,"Africa, East",Very High,medium,No,True
+Positive,GenreFan,Fiction,Very High,long,Yes,True
+Positive,GenreFan,Detective and mystery stories,Very High,short,Yes,True
+Neutral,GenreFan,Arthurian romances,Medium,short,Yes,True
+Positive,CasualReader,Christian life,Medium,short,No,True
+Positive,GenreFan,Fiction,Very High,long,Yes,True
+Neutral,DiverseReader,,Low,short,Yes,True
+Negative,AuthorLoyal,Adventure stories,Medium,medium,No,True
+Positive,CasualReader,Arthurian romances,High,long,Yes,True
+Negative,CasualReader,"Africa, East",High,long,No,True
+Neutral,DiverseReader,English drama,Low,medium,Yes,True
+Neutral,DiverseReader,Christian life,High,short,Yes,True
+Neutral,DiverseReader,Fantasy fiction,Low,medium,Yes,True
+Neutral,CasualReader,Fantasy fiction,High,short,No,True
+Neutral,GenreFan,Christian life,Very High,unknown,Yes,True
+Negative,GenreFan,Christian life,Very High,medium,No,True
+Positive,DiverseReader,Christian life,High,long,Yes,True
+Neutral,GenreFan,"Africa, East",Medium,short,Yes,True
+Neutral,AuthorLoyal,Christian life,Very High,short,No,True
+Neutral,GenreFan,"Africa, East",High,medium,Yes,True
+Neutral,CasualReader,Fiction,High,unknown,Yes,True
+Positive,DiverseReader,"Africa, East",High,short,Yes,True
+Negative,CasualReader,Adventure stories,Medium,long,No,True
+Positive,CasualReader,"Africa, East",Low,medium,Yes,True
+Neutral,GenreFan,Christian life,High,medium,Yes,True
+Negative,DiverseReader,"Hyland, Morn (Fictitious character)",Medium,medium,Yes,True
+Neutral,GenreFan,Arthurian romances,Very High,long,Yes,True
+Positive,AuthorLoyal,"Hyland, Morn (Fictitious character)",Medium,short,No,True
+Negative,DiverseReader,Christian life,Medium,medium,No,True
+Neutral,GenreFan,"Hyland, Morn (Fictitious character)",Very High,short,No,True
+Neutral,AuthorLoyal,Detective and mystery stories,Very High,unknown,Yes,True
+Positive,DiverseReader,Adventure stories,High,medium,Yes,True
+Positive,GenreFan,Detective and mystery stories,Medium,short,Yes,True
+Negative,AuthorLoyal,Detective and mystery stories,High,long,No,True
+Neutral,GenreFan,Fiction,Medium,short,Yes,True
+Positive,GenreFan,"Africa, East",High,long,Yes,True
+Positive,AuthorLoyal,Fiction,Very High,medium,No,True
+Positive,GenreFan,Christian life,High,unknown,No,True
+Positive,GenreFan,Fiction,Very High,long,Yes,True
+Positive,AuthorLoyal,Detective and mystery stories,Very High,medium,Yes,True
+Positive,DiverseReader,Arthurian romances,Medium,long,Yes,True
+Negative,DiverseReader,Christian life,High,long,Yes,True
+Positive,AuthorLoyal,Fiction,Low,medium,Yes,True
+Negative,DiverseReader,Christian life,High,long,Yes,True
+Positive,GenreFan,Detective and mystery stories,Very High,long,Yes,True
+Neutral,GenreFan,Christian life,High,unknown,Yes,True
+Neutral,GenreFan,Fiction,Very High,unknown,No,True
+Positive,GenreFan,Detective and mystery stories,Very High,medium,Yes,True
+Negative,GenreFan,Christian life,High,medium,No,True
+Neutral,GenreFan,Arthurian romances,Very High,short,Yes,True
+Neutral,DiverseReader,Detective and mystery stories,High,long,No,True
+Neutral,GenreFan,Detective and mystery stories,High,long,No,True
+Neutral,DiverseReader,,Medium,short,Yes,True
+Neutral,GenreFan,Fiction,Very High,long,No,True
+Neutral,AuthorLoyal,Detective and mystery stories,High,medium,Yes,True
+Positive,CasualReader,Christian life,High,medium,Yes,True
+Negative,GenreFan,Detective and mystery stories,Low,long,No,True
+Negative,DiverseReader,"Africa, East",Medium,medium,No,True
+Negative,DiverseReader,Arthurian romances,Low,short,No,True
+Positive,GenreFan,"Africa, East",High,long,Yes,True
+Negative,DiverseReader,"Africa, East",Medium,long,Yes,True
+Negative,GenreFan,Adventure stories,Very High,long,No,True
+Positive,GenreFan,Fiction,Very High,medium,Yes,True
+Neutral,DiverseReader,"Africa, East",Low,medium,No,True
+Negative,DiverseReader,Fiction,Very High,short,No,True
+Positive,GenreFan,Detective and mystery stories,Medium,medium,Yes,True
+Neutral,GenreFan,Fiction,High,long,Yes,True
+Positive,AuthorLoyal,Fiction,Medium,short,Yes,True
+Neutral,AuthorLoyal,Christian life,Low,short,Yes,True
+Neutral,CasualReader,Fiction,Medium,long,No,True
+Positive,DiverseReader,Fiction,High,medium,No,True
+Negative,GenreFan,Christian life,Very High,long,No,True
+Neutral,DiverseReader,Detective and mystery stories,High,unknown,Yes,True
+Neutral,AuthorLoyal,Christian life,High,medium,Yes,True
+Neutral,GenreFan,Detective and mystery stories,High,medium,Yes,True
+Positive,DiverseReader,Christian life,Medium,medium,Yes,True
+Positive,GenreFan,Fiction,Medium,medium,Yes,True
+Positive,AuthorLoyal,Detective and mystery stories,Very High,long,Yes,True
+Positive,GenreFan,Fiction,High,medium,No,True
+Negative,GenreFan,Detective and mystery stories,Medium,short,No,True
+Neutral,CasualReader,"Hyland, Morn (Fictitious character)",Medium,long,No,True
+Positive,GenreFan,,High,medium,No,True
+Positive,CasualReader,,Very High,short,Yes,True
+Negative,GenreFan,Detective and mystery stories,Low,unknown,No,True
+Neutral,DiverseReader,Arthurian romances,High,medium,Yes,True
+Negative,CasualReader,Christian life,High,short,Yes,True
+Negative,CasualReader,"Hyland, Morn (Fictitious character)",Medium,medium,No,True
+Neutral,AuthorLoyal,Christian life,Very High,medium,Yes,True
+Neutral,AuthorLoyal,"Africa, East",Low,long,Yes,True
+Neutral,CasualReader,Fiction,Low,short,No,True
+Positive,GenreFan,Christian life,Low,long,Yes,True
+Positive,AuthorLoyal,"Africa, East",Medium,medium,Yes,True
+Neutral,DiverseReader,,Very High,medium,No,True
+Neutral,DiverseReader,"Africa, East",Medium,unknown,No,True
+Positive,GenreFan,Christian life,High,long,Yes,True
+Positive,DiverseReader,"Africa, East",Medium,medium,Yes,True
+Positive,GenreFan,Fiction,Very High,medium,Yes,True
+Negative,CasualReader,Adventure stories,Medium,short,Yes,True
+Neutral,DiverseReader,Detective and mystery stories,Medium,long,No,True
+Neutral,AuthorLoyal,"Hyland, Morn (Fictitious character)",Medium,long,No,True
+Neutral,AuthorLoyal,Detective and mystery stories,Low,medium,No,True
+Positive,DiverseReader,"Hyland, Morn (Fictitious character)",Medium,medium,Yes,True
+Neutral,GenreFan,Adventure stories,Low,medium,No,True
+Neutral,DiverseReader,"Africa, East",Very High,short,Yes,True
+Negative,DiverseReader,Fantasy fiction,High,short,Yes,True
+Negative,DiverseReader,,Medium,unknown,No,True
+Neutral,GenreFan,English drama,Medium,short,No,True
+Positive,GenreFan,"Hyland, Morn (Fictitious character)",Very High,long,Yes,True
+Neutral,AuthorLoyal,Fiction,Medium,long,Yes,True
+Neutral,CasualReader,Detective and mystery stories,High,short,Yes,True
+Neutral,DiverseReader,Detective and mystery stories,Very High,medium,No,True
+Positive,GenreFan,Adventure stories,High,medium,Yes,True
+Positive,GenreFan,Christian life,Very High,long,Yes,True
+Positive,DiverseReader,Fiction,High,medium,Yes,True
+Negative,GenreFan,"Hyland, Morn (Fictitious character)",Medium,short,No,True
+Negative,AuthorLoyal,"Hyland, Morn (Fictitious character)",Very High,medium,No,True
+Negative,CasualReader,Fiction,High,short,No,True
+Negative,DiverseReader,Fiction,Medium,long,No,True
+Neutral,DiverseReader,"Africa, East",Low,long,Yes,True
+Positive,DiverseReader,"Hyland, Morn (Fictitious character)",Low,unknown,Yes,True
+Negative,GenreFan,Detective and mystery stories,Low,short,No,True
+Positive,AuthorLoyal,"Hyland, Morn (Fictitious character)",Very High,unknown,Yes,True
+Positive,AuthorLoyal,Christian life,High,long,Yes,True
+Positive,GenreFan,Fiction,Medium,long,No,True
+Positive,AuthorLoyal,Fiction,Very High,short,Yes,True
+Neutral,GenreFan,Fantasy fiction,Medium,long,Yes,True
+Positive,CasualReader,Christian life,Low,short,Yes,True
+Neutral,DiverseReader,Fantasy fiction,Very High,short,No,True
+Positive,GenreFan,Detective and mystery stories,High,short,Yes,True
+Neutral,DiverseReader,Fiction,High,medium,No,True
+Positive,AuthorLoyal,Fiction,High,long,Yes,True
+Neutral,AuthorLoyal,Detective and mystery stories,High,long,No,True
+Neutral,GenreFan,Arthurian romances,Medium,medium,No,True
+Neutral,AuthorLoyal,Christian life,Very High,medium,No,True
+Negative,GenreFan,Detective and mystery stories,Low,medium,Yes,True
+Negative,DiverseReader,Fiction,High,medium,Yes,True
+Positive,GenreFan,Detective and mystery stories,Very High,medium,No,True
+Negative,DiverseReader,Arthurian romances,Very High,long,No,True
+Neutral,DiverseReader,,High,medium,Yes,True
+Positive,GenreFan,"Africa, East",Very High,medium,Yes,True
+Neutral,CasualReader,Detective and mystery stories,High,long,No,True
+Positive,GenreFan,"Africa, East",Very High,medium,Yes,True
+Positive,GenreFan,"Hyland, Morn (Fictitious character)",Very High,long,Yes,True
+Negative,GenreFan,Detective and mystery stories,Very High,short,Yes,True
+Neutral,DiverseReader,"Hyland, Morn (Fictitious character)",Low,medium,Yes,True
+Positive,GenreFan,Christian life,High,long,Yes,True
+Neutral,DiverseReader,"Hyland, Morn (Fictitious character)",Medium,medium,Yes,True
+Positive,CasualReader,"Hyland, Morn (Fictitious character)",Low,short,Yes,True
+Negative,GenreFan,Fiction,Medium,unknown,Yes,True
+Neutral,DiverseReader,Detective and mystery stories,Very High,long,No,True
+Positive,AuthorLoyal,Christian life,Very High,medium,Yes,True
+Negative,AuthorLoyal,"Hyland, Morn (Fictitious character)",Very High,long,No,True
+Positive,CasualReader,Fantasy fiction,High,medium,Yes,True
+Positive,GenreFan,Fiction,Medium,short,Yes,True
+Negative,CasualReader,Fantasy fiction,Low,long,Yes,True
+Negative,GenreFan,"Hyland, Morn (Fictitious character)",Very High,unknown,Yes,True
+Negative,GenreFan,Fiction,Low,unknown,No,True
+Positive,GenreFan,Arthurian romances,High,short,Yes,True
+Neutral,GenreFan,"Hyland, Morn (Fictitious character)",Very High,long,No,True
+Positive,AuthorLoyal,Fiction,High,unknown,No,True
+Negative,CasualReader,Fiction,High,short,Yes,True
+Neutral,GenreFan,"Africa, East",High,long,Yes,True
+Neutral,CasualReader,Detective and mystery stories,Very High,short,Yes,True
+Positive,GenreFan,"Africa, East",High,medium,Yes,True
+Positive,DiverseReader,Adventure stories,High,unknown,Yes,True
+Neutral,CasualReader,Detective and mystery stories,Medium,medium,No,True
+Negative,GenreFan,Adventure stories,High,medium,Yes,True
+Negative,CasualReader,"Africa, East",Low,long,No,True
+Neutral,CasualReader,Fiction,High,medium,Yes,True
+Positive,CasualReader,"Africa, East",Medium,short,Yes,True
+Positive,GenreFan,"Africa, East",High,unknown,No,True
+Neutral,AuthorLoyal,Christian life,Very High,short,Yes,True
+Neutral,CasualReader,Fantasy fiction,High,unknown,No,True
+Negative,GenreFan,Detective and mystery stories,Low,long,Yes,True
+Negative,CasualReader,"Africa, East",High,long,No,True
+Neutral,GenreFan,Adventure stories,Medium,unknown,Yes,True
+Neutral,GenreFan,Christian life,Very High,medium,Yes,True
+Neutral,CasualReader,,Medium,short,Yes,True
+Positive,GenreFan,Fiction,Very High,medium,Yes,True
+Negative,DiverseReader,Detective and mystery stories,Low,short,No,True
+Neutral,AuthorLoyal,Detective and mystery stories,Very High,short,No,True
+Neutral,DiverseReader,Christian life,Low,medium,Yes,True
+Positive,AuthorLoyal,Detective and mystery stories,High,medium,Yes,True
+Positive,DiverseReader,"Hyland, Morn (Fictitious character)",High,medium,Yes,True
+Neutral,AuthorLoyal,"Hyland, Morn (Fictitious character)",Very High,medium,Yes,True
+Negative,GenreFan,Fiction,High,long,No,True
+Negative,GenreFan,Arthurian romances,Medium,short,Yes,True
+Negative,GenreFan,Detective and mystery stories,Medium,long,No,True
+Neutral,CasualReader,Fantasy fiction,High,short,No,True
+Negative,GenreFan,Christian life,Very High,medium,Yes,True
+Positive,GenreFan,Fiction,Low,medium,Yes,True
+Positive,GenreFan,"Africa, East",Medium,short,Yes,True
+Negative,AuthorLoyal,Detective and mystery stories,Very High,unknown,No,True
+Positive,CasualReader,"Africa, East",High,long,No,True
+Positive,GenreFan,Fantasy fiction,Low,medium,Yes,True
+Neutral,GenreFan,Fiction,Medium,medium,No,True
+Negative,GenreFan,Detective and mystery stories,Very High,short,No,True
+Positive,GenreFan,Detective and mystery stories,Medium,short,Yes,True
+Neutral,AuthorLoyal,"Hyland, Morn (Fictitious character)",Low,short,Yes,True
+Negative,GenreFan,Fiction,Very High,short,Yes,True
+Neutral,CasualReader,Fiction,Medium,medium,Yes,True
+Positive,GenreFan,Fiction,High,medium,No,True
+Positive,GenreFan,"Africa, East",Very High,medium,Yes,True
+Positive,AuthorLoyal,Christian life,High,short,Yes,True
+Positive,GenreFan,Arthurian romances,Very High,unknown,Yes,True
+Neutral,AuthorLoyal,Detective and mystery stories,Low,short,No,True
+Negative,GenreFan,Fiction,High,medium,Yes,True
+Positive,DiverseReader,Adventure stories,Very High,medium,No,True
+Negative,GenreFan,Adventure stories,Low,long,No,True
+Positive,GenreFan,Fiction,High,short,Yes,True
+Neutral,DiverseReader,Arthurian romances,Medium,long,No,True
+Positive,DiverseReader,"Africa, East",Very High,long,Yes,True
+Neutral,GenreFan,"Hyland, Morn (Fictitious character)",Medium,medium,No,True
+Neutral,GenreFan,Fiction,Very High,unknown,No,True
+Negative,GenreFan,Fiction,High,short,Yes,True
+Neutral,DiverseReader,"Africa, East",Medium,medium,Yes,True
+Positive,GenreFan,Detective and mystery stories,Very High,unknown,No,True
+Neutral,GenreFan,Fiction,Very High,unknown,No,True
+Positive,DiverseReader,"Africa, East",Medium,medium,Yes,True
+Negative,AuthorLoyal,"Hyland, Morn (Fictitious character)",High,unknown,No,True
+Neutral,CasualReader,Fiction,Very High,unknown,Yes,True
+Positive,GenreFan,Fiction,Very High,long,Yes,True
+Positive,AuthorLoyal,Fiction,Very High,unknown,Yes,True
+Negative,GenreFan,"Africa, East",High,medium,No,True
+Negative,AuthorLoyal,,Very High,medium,Yes,True
+Positive,CasualReader,Fiction,High,unknown,Yes,True
+Positive,AuthorLoyal,Fiction,Medium,short,Yes,True
+Negative,CasualReader,"Hyland, Morn (Fictitious character)",High,long,Yes,True
+Neutral,AuthorLoyal,Fiction,High,long,Yes,True
+Negative,DiverseReader,Adventure stories,Low,short,No,True
+Positive,AuthorLoyal,Adventure stories,Very High,short,Yes,True
+Positive,GenreFan,Arthurian romances,Very High,long,Yes,True
+Negative,AuthorLoyal,Detective and mystery stories,Very High,long,Yes,True
+Neutral,AuthorLoyal,Christian life,High,short,Yes,True
+Negative,AuthorLoyal,Detective and mystery stories,Medium,long,Yes,True
+Negative,GenreFan,"Hyland, Morn (Fictitious character)",High,short,No,True
+Negative,DiverseReader,Arthurian romances,High,short,No,True
+Positive,DiverseReader,Fiction,High,long,Yes,True
+Negative,GenreFan,Christian life,Very High,long,Yes,True
+Neutral,GenreFan,,Medium,long,No,True
+Positive,DiverseReader,Detective and mystery stories,High,medium,Yes,True
+Negative,GenreFan,"Hyland, Morn (Fictitious character)",Low,medium,No,True
+Neutral,GenreFan,Detective and mystery stories,High,short,Yes,True
+Positive,GenreFan,Fiction,Very High,medium,Yes,True
+Negative,CasualReader,Fiction,Very High,short,Yes,True
+Neutral,DiverseReader,Fiction,High,short,Yes,True
+Positive,GenreFan,Fiction,High,short,Yes,True
+Neutral,DiverseReader,English drama,High,short,No,True
+Negative,DiverseReader,"Africa, East",Medium,long,No,True
+Neutral,GenreFan,Fiction,Medium,medium,Yes,True
+Neutral,AuthorLoyal,Fiction,Medium,long,No,True
+Neutral,GenreFan,"Africa, East",High,long,Yes,True
+Negative,CasualReader,Detective and mystery stories,Very High,short,Yes,True
+Neutral,CasualReader,"Africa, East",Medium,short,No,True
+Positive,GenreFan,"Hyland, Morn (Fictitious character)",Very High,long,No,True
+Positive,GenreFan,"Africa, East",High,short,No,True
+Positive,CasualReader,Fiction,Very High,short,Yes,True
+Negative,CasualReader,Fiction,Very High,medium,No,True
+Neutral,AuthorLoyal,"Africa, East",Very High,long,No,True
+Positive,GenreFan,Detective and mystery stories,High,medium,Yes,True
+Positive,GenreFan,Christian life,High,unknown,No,True
+Positive,CasualReader,Christian life,High,short,Yes,True
+Positive,DiverseReader,Christian life,Very High,unknown,Yes,True
+Negative,AuthorLoyal,"Hyland, Morn (Fictitious character)",High,long,Yes,True
+Positive,GenreFan,"Africa, East",Low,medium,Yes,True
+Neutral,GenreFan,"Africa, East",Medium,unknown,Yes,True
+Neutral,CasualReader,Detective and mystery stories,Medium,medium,No,True
+Negative,CasualReader,Christian life,High,short,Yes,True
+Positive,GenreFan,Arthurian romances,High,medium,Yes,True
+Positive,DiverseReader,"Africa, East",Low,medium,Yes,True
+Neutral,CasualReader,Fiction,Very High,medium,No,True
+Positive,DiverseReader,Fiction,Very High,short,No,True
+Positive,DiverseReader,,Low,medium,Yes,True
+Positive,GenreFan,Detective and mystery stories,Medium,long,No,True
+Positive,DiverseReader,Christian life,High,short,Yes,True
+Neutral,GenreFan,"Africa, East",High,unknown,Yes,True
+Negative,DiverseReader,Christian life,Medium,medium,Yes,True
+Positive,GenreFan,Arthurian romances,High,long,Yes,True
+Neutral,AuthorLoyal,"Africa, East",High,medium,No,True
+Positive,GenreFan,Fiction,High,long,No,True
+Positive,DiverseReader,Arthurian romances,Medium,medium,Yes,True
+Neutral,GenreFan,Christian life,Very High,medium,No,True
+Positive,GenreFan,Fiction,High,unknown,Yes,True
+Neutral,DiverseReader,Fantasy fiction,High,medium,No,True
+Neutral,CasualReader,Detective and mystery stories,Very High,unknown,Yes,True
+Neutral,GenreFan,Detective and mystery stories,Medium,long,No,True
+Negative,GenreFan,"Hyland, Morn (Fictitious character)",Very High,short,Yes,True
+Neutral,CasualReader,"Hyland, Morn (Fictitious character)",Medium,long,Yes,True
+Negative,GenreFan,"Africa, East",High,long,No,True
+Neutral,GenreFan,Detective and mystery stories,Very High,medium,Yes,True
+Positive,AuthorLoyal,Fiction,Medium,short,No,True
+Positive,DiverseReader,Fiction,High,short,Yes,True
+Neutral,CasualReader,Adventure stories,Very High,short,No,True
+Positive,DiverseReader,Fiction,High,long,No,True
+Positive,GenreFan,Fiction,Very High,medium,Yes,True
+Positive,CasualReader,Adventure stories,Medium,medium,Yes,True
+Positive,GenreFan,Detective and mystery stories,High,medium,Yes,True
+Neutral,GenreFan,Fiction,Medium,long,No,True
+Negative,GenreFan,Detective and mystery stories,High,long,Yes,True
+Neutral,GenreFan,Christian life,Very High,long,Yes,True
+Neutral,CasualReader,Fiction,Medium,medium,Yes,True
+Positive,DiverseReader,"Africa, East",Low,unknown,No,True
+Neutral,AuthorLoyal,Christian life,Very High,long,No,True
+Negative,GenreFan,Fiction,Medium,long,Yes,True
+Neutral,GenreFan,Detective and mystery stories,Very High,short,No,True
+Neutral,GenreFan,Fiction,Medium,short,No,True
+Positive,AuthorLoyal,Fiction,Very High,long,No,True
+Negative,GenreFan,Fiction,Very High,long,Yes,True
+Positive,GenreFan,Fiction,Very High,long,No,True
+Positive,GenreFan,Christian life,Low,medium,Yes,True
+Neutral,GenreFan,,High,unknown,No,True
+Neutral,DiverseReader,Fiction,Very High,short,No,True
+Positive,GenreFan,Fiction,Medium,unknown,Yes,True
+Neutral,GenreFan,Detective and mystery stories,Medium,medium,No,True
+Neutral,CasualReader,"Hyland, Morn (Fictitious character)",Medium,long,No,True
+Negative,GenreFan,Detective and mystery stories,Very High,long,No,True
+Neutral,GenreFan,"Hyland, Morn (Fictitious character)",High,medium,Yes,True
+Negative,AuthorLoyal,Fiction,Medium,short,Yes,True
+Positive,CasualReader,"Hyland, Morn (Fictitious character)",Low,medium,No,True
+Positive,DiverseReader,Fantasy fiction,Very High,medium,Yes,True
+Positive,GenreFan,Detective and mystery stories,Very High,long,No,True
+Neutral,GenreFan,Adventure stories,Medium,short,No,True
+Neutral,GenreFan,"Africa, East",High,long,Yes,True
+Neutral,GenreFan,Detective and mystery stories,Medium,short,No,True
+Neutral,CasualReader,"Hyland, Morn (Fictitious character)",Low,short,No,True
+Positive,CasualReader,,Medium,long,No,True
+Neutral,GenreFan,"Africa, East",Very High,medium,No,True
+Negative,GenreFan,Detective and mystery stories,Very High,medium,No,True
+Positive,AuthorLoyal,Detective and mystery stories,Very High,long,Yes,True
+Positive,GenreFan,Detective and mystery stories,Medium,medium,Yes,True
+Negative,GenreFan,Fiction,Very High,medium,No,True
+Neutral,DiverseReader,Adventure stories,High,long,Yes,True
+Negative,CasualReader,Fantasy fiction,Low,short,Yes,True
+Neutral,DiverseReader,"Hyland, Morn (Fictitious character)",High,medium,Yes,True
+Negative,DiverseReader,Detective and mystery stories,Low,long,Yes,True
+Positive,AuthorLoyal,Detective and mystery stories,Very High,long,Yes,True
+Neutral,GenreFan,Christian life,High,long,Yes,True
+Positive,AuthorLoyal,"Hyland, Morn (Fictitious character)",Low,long,No,True
+Positive,GenreFan,"Hyland, Morn (Fictitious character)",High,medium,No,True
+Negative,DiverseReader,"Hyland, Morn (Fictitious character)",Very High,long,Yes,True
+Positive,GenreFan,Fiction,Very High,medium,Yes,True
+Positive,AuthorLoyal,Fiction,Medium,short,Yes,True
+Negative,DiverseReader,Fiction,Medium,medium,No,True
+Neutral,DiverseReader,Fiction,Medium,medium,Yes,True
+Neutral,GenreFan,English drama,Very High,long,No,True
+Positive,AuthorLoyal,Detective and mystery stories,Medium,long,Yes,True
+Positive,GenreFan,Detective and mystery stories,Very High,long,Yes,True
+Neutral,GenreFan,Fiction,Medium,long,No,True
+Neutral,GenreFan,Detective and mystery stories,High,medium,Yes,True
+Negative,DiverseReader,English drama,Low,medium,Yes,True
+Neutral,CasualReader,Christian life,Low,medium,No,True
+Negative,GenreFan,"Hyland, Morn (Fictitious character)",Very High,medium,Yes,True
+Positive,GenreFan,Fiction,Very High,long,Yes,True
+Negative,AuthorLoyal,Detective and mystery stories,High,unknown,Yes,True
+Negative,GenreFan,Fiction,High,unknown,No,True
+Negative,AuthorLoyal,Fiction,Very High,unknown,No,True
+Neutral,GenreFan,Christian life,Very High,long,Yes,True
+Neutral,GenreFan,"Hyland, Morn (Fictitious character)",High,medium,Yes,True
+Negative,CasualReader,Adventure stories,Medium,medium,No,True
+Neutral,AuthorLoyal,Detective and mystery stories,High,long,Yes,True
+Negative,GenreFan,Adventure stories,Very High,long,No,True
+Positive,DiverseReader,Christian life,High,short,No,True
+Neutral,GenreFan,Fiction,Very High,short,No,True
+Negative,DiverseReader,Christian life,Medium,medium,Yes,True
+Negative,DiverseReader,Christian life,High,unknown,No,True
+Positive,DiverseReader,Christian life,Low,medium,Yes,True
+Neutral,GenreFan,Arthurian romances,Very High,unknown,Yes,True
+Positive,CasualReader,Fantasy fiction,Low,medium,No,True
+Positive,AuthorLoyal,Detective and mystery stories,Very High,short,Yes,True
+Negative,CasualReader,"Africa, East",Very High,short,Yes,True
+Neutral,AuthorLoyal,Fiction,High,long,No,True
+Neutral,GenreFan,Fiction,High,long,Yes,True
+Neutral,GenreFan,Detective and mystery stories,High,short,Yes,True
+Neutral,AuthorLoyal,Fiction,Very High,long,Yes,True
+Negative,GenreFan,Arthurian romances,High,medium,No,True
+Negative,CasualReader,Fiction,Low,short,No,True
+Neutral,DiverseReader,Fiction,Medium,medium,Yes,True
+Negative,AuthorLoyal,Fiction,Medium,medium,No,True
+Positive,GenreFan,"Hyland, Morn (Fictitious character)",High,medium,No,True
+Neutral,GenreFan,Detective and mystery stories,High,medium,Yes,True
+Neutral,GenreFan,Detective and mystery stories,High,medium,Yes,True
+Negative,AuthorLoyal,Fantasy fiction,Very High,long,Yes,True
+Neutral,GenreFan,Fiction,High,short,Yes,True
+Positive,CasualReader,Detective and mystery stories,Very High,short,Yes,True
+Negative,GenreFan,Fiction,Medium,medium,Yes,True
+Positive,DiverseReader,Christian life,Low,long,Yes,True
+Neutral,CasualReader,Arthurian romances,Very High,short,Yes,True
+Neutral,CasualReader,Arthurian romances,High,unknown,No,True
+Positive,GenreFan,Christian life,Very High,short,Yes,True
+Neutral,GenreFan,Christian life,High,long,Yes,True
+Negative,DiverseReader,Fiction,Medium,medium,Yes,True
+Positive,CasualReader,Arthurian romances,Medium,short,Yes,True
+Positive,CasualReader,Detective and mystery stories,High,short,Yes,True
+Positive,DiverseReader,Detective and mystery stories,Very High,long,No,True
+Neutral,AuthorLoyal,"Hyland, Morn (Fictitious character)",Very High,long,No,True
+Neutral,DiverseReader,Fantasy fiction,High,medium,Yes,True
+Positive,DiverseReader,Christian life,Medium,long,Yes,True
+Positive,GenreFan,Fiction,Very High,medium,Yes,True
+Neutral,CasualReader,"Hyland, Morn (Fictitious character)",Very High,unknown,Yes,True
+Positive,GenreFan,"Hyland, Morn (Fictitious character)",Very High,short,Yes,True
+Neutral,GenreFan,Fiction,Medium,medium,No,True
+Positive,GenreFan,Christian life,Low,short,Yes,True
+Neutral,GenreFan,Detective and mystery stories,High,medium,Yes,True
+Neutral,CasualReader,Christian life,Medium,short,Yes,True
+Neutral,DiverseReader,Fiction,Very High,long,Yes,True
+Negative,GenreFan,Fiction,Very High,short,No,True
+Positive,GenreFan,Arthurian romances,Very High,medium,Yes,True
+Neutral,DiverseReader,Christian life,Very High,medium,Yes,True
+Neutral,DiverseReader,,Very High,short,Yes,True
+Positive,AuthorLoyal,Detective and mystery stories,Very High,short,Yes,True
+Neutral,DiverseReader,Detective and mystery stories,Medium,medium,Yes,True
+Positive,GenreFan,"Africa, East",High,long,Yes,True
+Positive,GenreFan,"Hyland, Morn (Fictitious character)",Low,medium,No,True
+Neutral,GenreFan,Arthurian romances,High,medium,No,True
+Positive,GenreFan,Detective and mystery stories,High,unknown,Yes,True
+Neutral,AuthorLoyal,Fiction,Very High,medium,No,True
+Positive,AuthorLoyal,Detective and mystery stories,Medium,medium,No,True
+Negative,GenreFan,Arthurian romances,Low,long,No,True
+Positive,GenreFan,Fiction,Medium,medium,No,True
+Neutral,GenreFan,"Africa, East",Very High,long,No,True
+Neutral,GenreFan,Adventure stories,High,short,No,True
+Negative,CasualReader,"Hyland, Morn (Fictitious character)",Very High,medium,No,True
+Negative,GenreFan,"Africa, East",High,long,Yes,True
+Neutral,AuthorLoyal,Christian life,Very High,medium,No,True
+Negative,CasualReader,Christian life,Medium,long,Yes,True
+Neutral,DiverseReader,"Africa, East",Low,short,Yes,True
+Positive,GenreFan,Detective and mystery stories,High,long,Yes,True
+Neutral,DiverseReader,Detective and mystery stories,Very High,medium,No,True
+Neutral,CasualReader,"Hyland, Morn (Fictitious character)",Low,short,Yes,True
+Neutral,GenreFan,Fiction,High,medium,No,True
+Neutral,AuthorLoyal,Fiction,Medium,long,No,True
+Positive,CasualReader,Arthurian romances,High,medium,No,True
+Neutral,CasualReader,"Africa, East",High,short,Yes,True
+Positive,GenreFan,Fiction,Very High,short,Yes,True
+Neutral,GenreFan,Christian life,Very High,long,Yes,True
+Positive,CasualReader,,Very High,long,Yes,True
+Positive,DiverseReader,Detective and mystery stories,Very High,long,No,True
+Neutral,CasualReader,Fiction,High,medium,No,True
+Positive,DiverseReader,Detective and mystery stories,Low,short,No,True
+Positive,GenreFan,Fiction,Medium,long,Yes,True
+Neutral,DiverseReader,Fiction,Very High,medium,No,True
+Negative,DiverseReader,English drama,Medium,long,Yes,True
+Positive,CasualReader,"Hyland, Morn (Fictitious character)",High,short,Yes,True
+Negative,DiverseReader,English drama,Low,medium,Yes,True
+Positive,CasualReader,"Hyland, Morn (Fictitious character)",High,long,Yes,True
+Negative,GenreFan,"Hyland, Morn (Fictitious character)",High,short,No,True
+Positive,GenreFan,"Africa, East",Very High,medium,No,True
+Positive,GenreFan,Christian life,High,short,Yes,True
+Neutral,GenreFan,"Hyland, Morn (Fictitious character)",High,medium,No,True
+Positive,GenreFan,Christian life,Low,medium,No,True
+Positive,GenreFan,Detective and mystery stories,Very High,medium,Yes,True
+Neutral,DiverseReader,Arthurian romances,Low,long,No,True
+Positive,GenreFan,Detective and mystery stories,Medium,long,Yes,True
+Negative,DiverseReader,Christian life,Medium,medium,No,True
+Neutral,DiverseReader,Fiction,Low,unknown,Yes,True
+Positive,GenreFan,Detective and mystery stories,Medium,medium,No,True
+Neutral,GenreFan,Fiction,High,long,No,True
+Negative,DiverseReader,"Africa, East",Medium,medium,No,True
+Negative,AuthorLoyal,"Africa, East",Low,medium,No,True
+Neutral,AuthorLoyal,Detective and mystery stories,Very High,long,Yes,True
+Negative,GenreFan,Detective and mystery stories,High,long,No,True
+Positive,GenreFan,"Hyland, Morn (Fictitious character)",Very High,medium,Yes,True
+Neutral,DiverseReader,Christian life,High,long,No,True
+Neutral,DiverseReader,Christian life,High,medium,No,True
+Neutral,CasualReader,"Africa, East",High,medium,No,True
+Positive,GenreFan,Detective and mystery stories,Very High,long,Yes,True
+Neutral,CasualReader,Fantasy fiction,Very High,short,Yes,True
+Positive,GenreFan,Adventure stories,Medium,medium,Yes,True
+Neutral,GenreFan,"Africa, East",High,short,No,True
+Positive,GenreFan,Detective and mystery stories,High,long,Yes,True
+Positive,GenreFan,"Africa, East",High,medium,Yes,True
+Positive,DiverseReader,"Africa, East",High,long,No,True
+Neutral,GenreFan,Fiction,High,short,No,True
+Positive,AuthorLoyal,Christian life,Very High,medium,Yes,True
+Negative,CasualReader,"Hyland, Morn (Fictitious character)",High,unknown,No,True
+Positive,GenreFan,Christian life,Low,long,Yes,True
+Negative,DiverseReader,Arthurian romances,Very High,medium,No,True
+Negative,GenreFan,Fiction,Medium,long,No,True
+Positive,AuthorLoyal,Fantasy fiction,High,medium,No,True
+Positive,GenreFan,Christian life,Very High,medium,Yes,True
+Negative,DiverseReader,Fiction,Very High,long,Yes,True
+Positive,GenreFan,Detective and mystery stories,Medium,medium,Yes,True
+Positive,GenreFan,Christian life,Very High,short,Yes,True
+Neutral,GenreFan,Fiction,Low,medium,No,True
+Negative,GenreFan,Adventure stories,Very High,short,Yes,True
+Neutral,AuthorLoyal,Fiction,Very High,short,Yes,True
+Neutral,GenreFan,"Africa, East",High,short,No,True
+Neutral,DiverseReader,"Africa, East",High,short,No,True
+Neutral,GenreFan,Fiction,Very High,medium,No,True
+Negative,DiverseReader,Detective and mystery stories,High,long,Yes,True
+Positive,GenreFan,Detective and mystery stories,High,short,Yes,True
+Negative,CasualReader,Christian life,Medium,short,No,True
+Positive,GenreFan,Detective and mystery stories,Very High,medium,Yes,True
+Negative,AuthorLoyal,Fiction,Very High,medium,Yes,True
+Negative,CasualReader,Adventure stories,Medium,long,Yes,True
+Positive,DiverseReader,Christian life,Very High,medium,No,True
+Positive,GenreFan,English drama,Very High,long,Yes,True
+Negative,DiverseReader,Arthurian romances,High,medium,No,True
+Positive,DiverseReader,Adventure stories,Medium,short,No,True
+Neutral,CasualReader,Christian life,High,medium,No,True
+Neutral,CasualReader,Adventure stories,High,short,No,True
+Neutral,GenreFan,"Africa, East",High,long,Yes,True
+Negative,GenreFan,Christian life,High,medium,Yes,True
+Positive,DiverseReader,"Africa, East",High,long,No,True
+Neutral,GenreFan,Fantasy fiction,Very High,unknown,Yes,True
+Neutral,CasualReader,"Africa, East",High,long,Yes,True
+Negative,GenreFan,Christian life,High,long,No,True
+Neutral,CasualReader,Adventure stories,High,short,Yes,True
+Neutral,CasualReader,Adventure stories,Medium,short,Yes,True
+Neutral,AuthorLoyal,Fiction,Medium,medium,Yes,True
+Neutral,GenreFan,Arthurian romances,Low,long,Yes,True
+Neutral,GenreFan,Fiction,High,medium,Yes,True
+Neutral,DiverseReader,"Africa, East",Very High,short,No,True
+Neutral,DiverseReader,Arthurian romances,High,long,No,True
+Positive,GenreFan,Fiction,High,medium,Yes,True
+Negative,GenreFan,Adventure stories,Very High,short,No,True
+Neutral,GenreFan,Fiction,High,long,Yes,True
+Neutral,GenreFan,Arthurian romances,Medium,long,No,True
+Positive,CasualReader,"Africa, East",Low,short,Yes,True
+Negative,CasualReader,Detective and mystery stories,Low,short,Yes,True
+Positive,AuthorLoyal,Fiction,Medium,medium,Yes,True
+Negative,GenreFan,Fiction,Very High,medium,Yes,True
+Positive,GenreFan,Detective and mystery stories,Medium,medium,Yes,True
+Positive,DiverseReader,Detective and mystery stories,High,medium,Yes,True
+Neutral,GenreFan,Detective and mystery stories,Very High,medium,No,True
+Neutral,DiverseReader,"Hyland, Morn (Fictitious character)",Very High,medium,No,True
+Neutral,CasualReader,Adventure stories,Low,short,Yes,True
+Neutral,CasualReader,"Africa, East",Very High,unknown,Yes,True
+Positive,GenreFan,Christian life,High,medium,Yes,True
+Neutral,GenreFan,Fiction,High,short,No,True
+Positive,DiverseReader,Arthurian romances,Very High,medium,Yes,True
+Negative,GenreFan,Fiction,Very High,long,No,True
+Neutral,GenreFan,Fiction,Low,long,No,True
+Negative,AuthorLoyal,Detective and mystery stories,Medium,medium,No,True
+Neutral,GenreFan,Fiction,Very High,short,Yes,True
+Neutral,DiverseReader,Detective and mystery stories,High,medium,No,True
+Negative,DiverseReader,Detective and mystery stories,Medium,medium,Yes,True
+Negative,GenreFan,"Africa, East",Very High,long,No,True
+Neutral,GenreFan,"Africa, East",Very High,unknown,No,True
+Neutral,DiverseReader,"Hyland, Morn (Fictitious character)",Very High,long,No,True
+Neutral,AuthorLoyal,Fiction,Medium,long,Yes,True
+Negative,DiverseReader,Christian life,Very High,medium,No,True
+Neutral,GenreFan,"Hyland, Morn (Fictitious character)",Very High,long,No,True
+Neutral,GenreFan,Detective and mystery stories,Medium,short,No,True
+Negative,AuthorLoyal,Detective and mystery stories,Very High,long,No,True
+Neutral,GenreFan,Fiction,Medium,short,No,True
+Neutral,GenreFan,Detective and mystery stories,Very High,medium,Yes,True
+Negative,AuthorLoyal,Christian life,Very High,medium,No,True
+Neutral,AuthorLoyal,Fiction,High,long,Yes,True
+Positive,GenreFan,"Hyland, Morn (Fictitious character)",Low,long,Yes,True
+Positive,GenreFan,Detective and mystery stories,Very High,short,Yes,True
+Negative,AuthorLoyal,Detective and mystery stories,Medium,long,No,True
+Neutral,AuthorLoyal,Detective and mystery stories,High,long,No,True
+Positive,DiverseReader,Detective and mystery stories,Medium,medium,Yes,True
+Neutral,CasualReader,Adventure stories,High,medium,No,True
+Positive,CasualReader,Fantasy fiction,Very High,medium,Yes,True
+Negative,CasualReader,"Africa, East",Low,long,Yes,True
+Positive,AuthorLoyal,Fiction,Medium,long,No,True
+Positive,CasualReader,"Africa, East",Very High,short,Yes,True
+Neutral,GenreFan,Christian life,Medium,short,No,True
+Neutral,CasualReader,Fiction,Medium,medium,No,True
+Positive,DiverseReader,Detective and mystery stories,Very High,medium,No,True
+Positive,GenreFan,Fiction,High,medium,Yes,True
+Neutral,GenreFan,Adventure stories,Very High,medium,No,True
+Positive,DiverseReader,Fiction,Medium,unknown,No,True
+Positive,AuthorLoyal,Christian life,Very High,unknown,Yes,True
+Positive,GenreFan,"Hyland, Morn (Fictitious character)",Very High,medium,Yes,True
+Negative,CasualReader,"Hyland, Morn (Fictitious character)",Low,short,Yes,True
+Negative,GenreFan,Christian life,Medium,long,Yes,True
+Neutral,GenreFan,Fiction,Low,unknown,Yes,True
+Neutral,GenreFan,Fiction,Very High,medium,Yes,True
+Positive,AuthorLoyal,Detective and mystery stories,Very High,medium,Yes,True
+Positive,DiverseReader,"Hyland, Morn (Fictitious character)",High,unknown,No,True
+Positive,AuthorLoyal,Adventure stories,Very High,long,Yes,True
+Negative,DiverseReader,Arthurian romances,Low,short,Yes,True
+Negative,AuthorLoyal,Fiction,Very High,medium,Yes,True
+Positive,CasualReader,Fantasy fiction,High,short,Yes,True
+Neutral,DiverseReader,Detective and mystery stories,Very High,long,No,True
+Neutral,DiverseReader,Christian life,High,medium,Yes,True
+Positive,CasualReader,"Africa, East",Low,short,Yes,True
+Positive,GenreFan,,Low,medium,Yes,True
+Positive,AuthorLoyal,"Hyland, Morn (Fictitious character)",Low,short,No,True
+Positive,AuthorLoyal,Detective and mystery stories,High,long,Yes,True
+Neutral,DiverseReader,"Africa, East",Low,medium,No,True
+Neutral,GenreFan,"Africa, East",Very High,medium,No,True
+Neutral,CasualReader,Fantasy fiction,High,long,No,True
+Negative,AuthorLoyal,Detective and mystery stories,High,long,No,True
+Negative,GenreFan,Fiction,Very High,long,No,True
+Positive,DiverseReader,"Africa, East",Low,medium,Yes,True
+Positive,GenreFan,,Medium,short,No,True
+Negative,DiverseReader,Adventure stories,Very High,long,No,True
+Positive,AuthorLoyal,"Hyland, Morn (Fictitious character)",High,medium,Yes,True
+Positive,GenreFan,"Africa, East",Medium,short,No,True
+Positive,GenreFan,"Africa, East",High,long,Yes,True
+Neutral,GenreFan,Detective and mystery stories,Medium,unknown,Yes,True
+Neutral,AuthorLoyal,"Africa, East",High,medium,No,True
+Negative,GenreFan,Christian life,Very High,long,No,True
+Neutral,AuthorLoyal,"Africa, East",High,medium,No,True
+Neutral,GenreFan,Detective and mystery stories,Very High,long,Yes,True
+Positive,CasualReader,Fiction,Low,unknown,Yes,True
+Positive,GenreFan,Fiction,Medium,long,No,True
+Positive,GenreFan,,Very High,short,Yes,True
+Neutral,GenreFan,Christian life,Very High,unknown,Yes,True
+Neutral,GenreFan,Detective and mystery stories,Low,medium,Yes,True
+Positive,GenreFan,Fiction,Low,long,No,True
+Neutral,CasualReader,Adventure stories,Medium,unknown,Yes,True
+Negative,AuthorLoyal,Christian life,Low,medium,Yes,True
+Positive,AuthorLoyal,Detective and mystery stories,Very High,long,Yes,True
+Neutral,CasualReader,"Africa, East",Very High,unknown,No,True
+Negative,GenreFan,Fiction,Very High,medium,Yes,True
+Negative,DiverseReader,Detective and mystery stories,Medium,short,No,True
+Neutral,DiverseReader,Fantasy fiction,Medium,medium,No,True
+Positive,DiverseReader,Christian life,High,medium,Yes,True
+Negative,GenreFan,"Hyland, Morn (Fictitious character)",Medium,short,No,True
+Neutral,GenreFan,"Africa, East",Low,medium,No,True
+Neutral,GenreFan,Fantasy fiction,Very High,long,No,True
+Neutral,CasualReader,Christian life,High,long,No,True
+Positive,DiverseReader,"Hyland, Morn (Fictitious character)",High,medium,Yes,True
+Positive,GenreFan,Fiction,High,long,No,True
+Neutral,DiverseReader,"Africa, East",Low,short,No,True
+Negative,GenreFan,Detective and mystery stories,High,short,Yes,True
+Positive,GenreFan,Christian life,Very High,medium,Yes,True
+Neutral,AuthorLoyal,"Africa, East",Very High,long,Yes,True
+Positive,GenreFan,Fiction,Medium,long,Yes,True
+Neutral,CasualReader,"Africa, East",Medium,long,No,True
+Neutral,AuthorLoyal,Fiction,Very High,medium,No,True
+Neutral,AuthorLoyal,Detective and mystery stories,Low,long,Yes,True
+Negative,CasualReader,Fantasy fiction,Medium,unknown,No,True
+Neutral,CasualReader,"Hyland, Morn (Fictitious character)",Very High,long,Yes,True
+Negative,DiverseReader,Detective and mystery stories,High,short,No,True
+Positive,AuthorLoyal,Christian life,Very High,long,No,True
+Positive,GenreFan,Detective and mystery stories,Medium,short,No,True
+Neutral,GenreFan,Detective and mystery stories,Very High,unknown,Yes,True
+Neutral,GenreFan,Detective and mystery stories,Very High,short,No,True
+Neutral,DiverseReader,Arthurian romances,Low,long,Yes,True
+Neutral,DiverseReader,Christian life,Very High,medium,Yes,True
+Neutral,GenreFan,Detective and mystery stories,Low,long,No,True
+Positive,DiverseReader,Detective and mystery stories,Low,unknown,Yes,True
+Neutral,GenreFan,Christian life,Medium,long,No,True
+Positive,GenreFan,"Africa, East",High,medium,Yes,True
+Positive,GenreFan,Fiction,Very High,unknown,Yes,True
+Negative,DiverseReader,Adventure stories,Medium,short,No,True
+Positive,CasualReader,Christian life,Very High,long,No,True
+Positive,DiverseReader,Christian life,Medium,short,Yes,True
+Positive,AuthorLoyal,Detective and mystery stories,Low,long,Yes,True
+Negative,AuthorLoyal,"Africa, East",High,long,No,True
+Negative,AuthorLoyal,Fiction,High,long,No,True
+Positive,AuthorLoyal,"Hyland, Morn (Fictitious character)",Medium,unknown,No,True
+Positive,CasualReader,Adventure stories,Medium,short,Yes,True
+Positive,CasualReader,Fiction,High,long,Yes,True
+Negative,CasualReader,Fiction,Very High,long,Yes,True
+Positive,AuthorLoyal,Adventure stories,Very High,medium,Yes,True
+Positive,GenreFan,Fantasy fiction,Very High,long,No,True
+Neutral,GenreFan,Fiction,Very High,long,Yes,True
+Positive,DiverseReader,Christian life,Medium,medium,No,True
+Negative,CasualReader,"Hyland, Morn (Fictitious character)",Low,medium,Yes,True
+Negative,GenreFan,"Hyland, Morn (Fictitious character)",Very High,short,Yes,True
+Neutral,GenreFan,Detective and mystery stories,Medium,short,Yes,True
+Neutral,GenreFan,"Hyland, Morn (Fictitious character)",High,long,No,True
+Neutral,DiverseReader,Arthurian romances,Medium,medium,Yes,True
+Neutral,GenreFan,Fiction,High,long,Yes,True
+Neutral,CasualReader,"Africa, East",Medium,short,Yes,True
+Negative,AuthorLoyal,Detective and mystery stories,High,long,Yes,True
+Negative,GenreFan,Detective and mystery stories,Low,long,No,True
+Neutral,GenreFan,"Africa, East",Medium,medium,No,True
+Neutral,GenreFan,Detective and mystery stories,Low,medium,No,True
+Positive,GenreFan,"Africa, East",Very High,medium,No,True
+Positive,GenreFan,Adventure stories,High,unknown,No,True
+Neutral,GenreFan,Detective and mystery stories,Very High,medium,Yes,True
+Neutral,CasualReader,"Africa, East",High,medium,Yes,True
+Neutral,CasualReader,,High,medium,Yes,True
+Neutral,GenreFan,Detective and mystery stories,High,medium,Yes,True
+Positive,GenreFan,Fiction,Very High,unknown,Yes,True
+Negative,CasualReader,English drama,Very High,short,Yes,True
+Positive,GenreFan,Detective and mystery stories,Very High,short,Yes,True
+Positive,GenreFan,"Africa, East",Very High,unknown,Yes,True
+Positive,AuthorLoyal,Fiction,Very High,short,Yes,True
+Neutral,AuthorLoyal,Christian life,Very High,medium,No,True
+Positive,DiverseReader,English drama,High,long,Yes,True
+Neutral,DiverseReader,Detective and mystery stories,Very High,short,No,True
+Negative,DiverseReader,"Africa, East",Medium,long,No,True
+Neutral,DiverseReader,Arthurian romances,Very High,medium,No,True
+Positive,AuthorLoyal,Christian life,Low,unknown,Yes,True
+Positive,GenreFan,Fiction,Very High,medium,No,True
+Positive,GenreFan,"Hyland, Morn (Fictitious character)",High,short,Yes,True
+Positive,CasualReader,Detective and mystery stories,Medium,long,Yes,True
+Positive,AuthorLoyal,Fiction,Very High,medium,Yes,True
+Neutral,CasualReader,Arthurian romances,Medium,short,Yes,True
+Negative,GenreFan,Fiction,Medium,medium,No,True
+Neutral,CasualReader,Fiction,Low,unknown,Yes,True
+Negative,GenreFan,"Hyland, Morn (Fictitious character)",Medium,short,No,True
+Positive,GenreFan,Detective and mystery stories,Very High,long,Yes,True
+Neutral,GenreFan,,Very High,medium,Yes,True
+Positive,CasualReader,"Hyland, Morn (Fictitious character)",Very High,short,No,True
+Negative,GenreFan,Detective and mystery stories,Low,unknown,No,True
+Negative,GenreFan,Christian life,High,medium,No,True
+Positive,DiverseReader,Detective and mystery stories,High,short,Yes,True
+Positive,CasualReader,Fiction,High,short,No,True
+Positive,AuthorLoyal,Fiction,Very High,unknown,Yes,True
+Neutral,GenreFan,Fiction,Very High,long,No,True
+Positive,DiverseReader,,Very High,short,Yes,True
+Neutral,AuthorLoyal,Fiction,Very High,unknown,Yes,True
+Positive,GenreFan,"Africa, East",High,medium,No,True
+Negative,CasualReader,Adventure stories,High,medium,Yes,True
+Positive,GenreFan,Fiction,Medium,long,No,True
+Positive,GenreFan,Detective and mystery stories,Low,unknown,No,True
+Negative,AuthorLoyal,Adventure stories,Very High,medium,No,True
+Negative,GenreFan,Detective and mystery stories,Very High,medium,Yes,True
+Positive,GenreFan,"Hyland, Morn (Fictitious character)",Very High,medium,Yes,True
+Negative,GenreFan,"Hyland, Morn (Fictitious character)",Low,long,No,True
+Positive,AuthorLoyal,Detective and mystery stories,Very High,short,Yes,True
+Negative,GenreFan,Adventure stories,High,short,Yes,True
+Neutral,GenreFan,Fiction,High,short,Yes,True
+Neutral,AuthorLoyal,Fiction,High,unknown,Yes,True
+Positive,CasualReader,"Hyland, Morn (Fictitious character)",High,unknown,Yes,True
+Positive,CasualReader,Christian life,Medium,short,No,True
+Positive,AuthorLoyal,Christian life,High,unknown,Yes,True
+Positive,DiverseReader,Arthurian romances,Medium,medium,Yes,True
+Neutral,DiverseReader,Arthurian romances,Medium,long,Yes,True
+Negative,DiverseReader,Christian life,Medium,medium,Yes,True
+Neutral,DiverseReader,Christian life,High,unknown,No,True
+Positive,CasualReader,Fiction,Low,long,Yes,True
+Neutral,GenreFan,Fiction,Very High,short,No,True
+Positive,GenreFan,Detective and mystery stories,High,medium,Yes,True
+Neutral,GenreFan,"Hyland, Morn (Fictitious character)",High,long,Yes,True

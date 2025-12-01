@@ -1,0 +1,541 @@
+Sentiment,UserPreference,Genre_small,Popularity,ReadLength,Recommendation
+Neutral,CasualReader,Diary fiction,Very High,long,Yes
+Neutral,CasualReader,Diary fiction,Very High,long,Yes
+Neutral,CasualReader,Art,Very High,short,Yes
+Positive,CasualReader,Photography,High,short,Yes
+Neutral,CasualReader,"Body, Mind & Spirit",Very High,medium,Yes
+Negative,CasualReader,Fiction,Very High,medium,Yes
+Neutral,CasualReader,Religion,High,medium,No
+Neutral,CasualReader,Biography & Autobiography,Very High,medium,Yes
+Negative,CasualReader,"Persian Gulf War, 1991",Very High,long,Yes
+Negative,CasualReader,"Persian Gulf War, 1991",Very High,long,Yes
+Negative,CasualReader,Fiction,High,medium,Yes
+Neutral,CasualReader,Fiction,Very High,long,Yes
+Neutral,CasualReader,Comics & Graphic Novels,Very High,short,Yes
+Neutral,CasualReader,Fiction,Very High,long,Yes
+Neutral,CasualReader,Fiction,Very High,medium,Yes
+Neutral,CasualReader,Fiction,Very High,medium,Yes
+Neutral,CasualReader,Accidents,Very High,medium,Yes
+Neutral,CasualReader,Accidents,Very High,medium,Yes
+Negative,CasualReader,Galicia (Spain : Region),Very High,short,Yes
+Neutral,CasualReader,Fiction,Very High,medium,Yes
+Neutral,CasualReader,Fiction,High,medium,Yes
+Negative,CasualReader,Fiction,Very High,medium,Yes
+Neutral,CasualReader,Juvenile Nonfiction,High,short,Yes
+Neutral,CasualReader,Biography & Autobiography,Very High,medium,Yes
+Positive,AuthorLoyal,Boats and boating,High,medium,Yes
+Positive,AuthorLoyal,Boats and boating,High,medium,Yes
+Neutral,AuthorLoyal,Confianza en sí mismo,High,medium,Yes
+Neutral,AuthorLoyal,Confianza en sí mismo,High,medium,Yes
+Negative,AuthorLoyal,Religion,Very High,medium,Yes
+Positive,AuthorLoyal,Short stories,Medium,medium,No
+Neutral,AuthorLoyal,Fiction,Very High,short,Yes
+Negative,AuthorLoyal,Juvenile Fiction,High,long,No
+Positive,AuthorLoyal,Amish,Very High,long,Yes
+Neutral,AuthorLoyal,Nature,Very High,short,Yes
+Negative,CasualReader,"Authors, Cuban",Very High,medium,Yes
+Negative,CasualReader,"Authors, Cuban",Very High,medium,Yes
+Neutral,CasualReader,History,Very High,long,Yes
+Neutral,CasualReader,Language Arts & Disciplines,Very High,medium,Yes
+Neutral,CasualReader,Business & Economics,Very High,medium,Yes
+Negative,CasualReader,Fiction,Very High,medium,Yes
+Negative,CasualReader,Humor,Very High,short,Yes
+Neutral,CasualReader,Dead,Very High,medium,Yes
+Neutral,AuthorLoyal,Cancer,Very High,medium,Yes
+Positive,AuthorLoyal,Cancer,Very High,medium,Yes
+Positive,AuthorLoyal,Cancer,Very High,medium,Yes
+Neutral,AuthorLoyal,Cancer,Very High,medium,Yes
+Positive,AuthorLoyal,Science,Very High,medium,Yes
+Positive,AuthorLoyal,Cookery,Very High,medium,Yes
+Positive,AuthorLoyal,Americans,Very High,medium,Yes
+Neutral,AuthorLoyal,Social Science,Very High,short,Yes
+Neutral,AuthorLoyal,Fiction,Very High,medium,Yes
+Neutral,AuthorLoyal,Fiction,Very High,medium,Yes
+Negative,AuthorLoyal,Classical fiction,Very High,medium,Yes
+Negative,AuthorLoyal,Classical fiction,Very High,medium,Yes
+Negative,AuthorLoyal,Classical fiction,Very High,medium,Yes
+Neutral,AuthorLoyal,Classical fiction,Very High,long,Yes
+Neutral,AuthorLoyal,Classical fiction,Very High,long,Yes
+Negative,AuthorLoyal,Classical fiction,Very High,medium,Yes
+Neutral,AuthorLoyal,"Short stories, English",Very High,long,Yes
+Neutral,AuthorLoyal,"Short stories, English",Very High,long,Yes
+Positive,AuthorLoyal,Juvenile Fiction,High,short,No
+Neutral,AuthorLoyal,Literary Criticism,Very High,long,Yes
+Neutral,AuthorLoyal,Juvenile Fiction,Very High,medium,Yes
+Neutral,AuthorLoyal,Literary Criticism,Very High,short,Yes
+Negative,AuthorLoyal,Fiction,Very High,medium,Yes
+Negative,AuthorLoyal,Fiction,Very High,long,Yes
+Negative,AuthorLoyal,Belgians,Very High,medium,Yes
+Neutral,AuthorLoyal,Belgians,Very High,medium,Yes
+Neutral,AuthorLoyal,Sexual behavior surveys,High,long,Yes
+Negative,AuthorLoyal,Belgians,Very High,medium,Yes
+Neutral,AuthorLoyal,Sexual behavior surveys,High,long,Yes
+Neutral,AuthorLoyal,Belgians,Very High,medium,Yes
+Positive,AuthorLoyal,"Body, Mind & Spirit",High,short,No
+Negative,AuthorLoyal,Fiction,Medium,medium,No
+Negative,AuthorLoyal,Fiction,Very High,long,Yes
+Neutral,AuthorLoyal,Medical,Very High,medium,Yes
+Negative,AuthorLoyal,Fantasy fiction,Very High,medium,Yes
+Neutral,AuthorLoyal,Religion,Medium,medium,No
+Negative,AuthorLoyal,Medical,Very High,medium,Yes
+Neutral,AuthorLoyal,Medical,Very High,medium,Yes
+Negative,AuthorLoyal,Medical,Very High,long,Yes
+Neutral,AuthorLoyal,Medical,Very High,long,Yes
+Positive,AuthorLoyal,Medical,Very High,medium,Yes
+Neutral,AuthorLoyal,Christmas stories,Medium,medium,Yes
+Neutral,AuthorLoyal,Medical,Medium,long,Yes
+Neutral,AuthorLoyal,Medical,Very High,medium,Yes
+Neutral,AuthorLoyal,Medical,Medium,medium,Yes
+Neutral,AuthorLoyal,Medical,High,long,Yes
+Neutral,AuthorLoyal,Medical,Very High,long,Yes
+Neutral,AuthorLoyal,Medical,Medium,long,No
+Negative,AuthorLoyal,Medical,Very High,long,Yes
+Neutral,AuthorLoyal,Medical,Very High,short,Yes
+Neutral,AuthorLoyal,Philosophy,Very High,short,Yes
+Neutral,AuthorLoyal,Fiction,Very High,long,Yes
+Neutral,AuthorLoyal,Fiction,Very High,long,Yes
+Neutral,AuthorLoyal,Philosophy,Very High,long,Yes
+Neutral,AuthorLoyal,Fiction,Very High,medium,Yes
+Neutral,AuthorLoyal,Biography & Autobiography,Very High,long,Yes
+Neutral,CasualReader,Art,Very High,medium,Yes
+Neutral,CasualReader,Art,High,long,Yes
+Positive,CasualReader,Art,Very High,long,Yes
+Neutral,CasualReader,Art,High,short,Yes
+Neutral,CasualReader,Art,Very High,medium,Yes
+Neutral,CasualReader,Art,Very High,long,Yes
+Neutral,CasualReader,Art,High,medium,Yes
+Neutral,CasualReader,Art,Very High,short,Yes
+Neutral,CasualReader,Art,Very High,short,Yes
+Positive,CasualReader,Art,Medium,short,Yes
+Neutral,CasualReader,Art,High,short,Yes
+Neutral,CasualReader,Art,Very High,long,Yes
+Neutral,CasualReader,Art,Very High,medium,Yes
+Positive,CasualReader,Art,High,short,Yes
+Neutral,CasualReader,Fiction,Very High,medium,Yes
+Neutral,CasualReader,Fiction,Very High,long,Yes
+Neutral,CasualReader,Philosophy,High,medium,No
+Neutral,CasualReader,Fiction,High,short,No
+Negative,CasualReader,Fiction,Very High,long,Yes
+Positive,CasualReader,Fiction,Very High,long,Yes
+Neutral,AuthorLoyal,Gardening,Low,medium,No
+Neutral,AuthorLoyal,Gardening,Medium,short,No
+Neutral,AuthorLoyal,Gardening,Very High,medium,Yes
+Neutral,AuthorLoyal,"Baggins, Frodo (Fictitious character)",Very High,long,Yes
+Positive,AuthorLoyal,Gardening,High,short,Yes
+Positive,AuthorLoyal,"Baggins, Frodo (Fictitious character)",Very High,long,Yes
+Neutral,AuthorLoyal,Gardening,Very High,medium,Yes
+Neutral,AuthorLoyal,Gardening,Medium,short,Yes
+Neutral,AuthorLoyal,"Baggins, Frodo (Fictitious character)",High,long,Yes
+Positive,AuthorLoyal,"Baggins, Frodo (Fictitious character)",Very High,long,Yes
+Neutral,AuthorLoyal,Gardening,Low,medium,Yes
+Neutral,AuthorLoyal,Gardening,Medium,short,Yes
+Neutral,AuthorLoyal,Music,High,medium,Yes
+Negative,AuthorLoyal,Biography & Autobiography,Very High,medium,Yes
+Neutral,AuthorLoyal,Dreams,High,medium,No
+Negative,AuthorLoyal,Juvenile Fiction,Very High,medium,Yes
+Negative,AuthorLoyal,Fiction,Very High,medium,Yes
+Neutral,AuthorLoyal,Fiction,Very High,medium,Yes
+Neutral,CasualReader,Rock musicians,Very High,medium,Yes
+Neutral,CasualReader,Rock musicians,Very High,medium,Yes
+Positive,CasualReader,"Humorous stories, American",Very High,long,Yes
+Positive,CasualReader,"Humorous stories, American",Very High,long,Yes
+Negative,CasualReader,Fiction,Very High,medium,Yes
+Positive,CasualReader,Fiction,Very High,long,Yes
+Negative,CasualReader,Authors,High,long,No
+Neutral,CasualReader,Business & Economics,Very High,medium,Yes
+Negative,CasualReader,Fiction,Very High,long,Yes
+Neutral,CasualReader,Fiction,Very High,medium,Yes
+Negative,CasualReader,Animal sanctuaries,Very High,long,Yes
+Negative,CasualReader,Animal sanctuaries,Very High,long,Yes
+Negative,CasualReader,Fiction,Very High,medium,Yes
+Neutral,CasualReader,Foreign Language Study,High,long,Yes
+Positive,CasualReader,other,Very High,medium,Yes
+Negative,CasualReader,Detective and mystery stories,Very High,medium,Yes
+Neutral,CasualReader,Bracelets,Very High,medium,Yes
+Neutral,CasualReader,Fiction,Very High,long,Yes
+Negative,AuthorLoyal,African Americans,Very High,short,Yes
+Negative,AuthorLoyal,"Africa, East",High,long,Yes
+Negative,AuthorLoyal,African Americans,Very High,short,Yes
+Neutral,AuthorLoyal,African Americans,Very High,long,Yes
+Positive,AuthorLoyal,African Americans,Very High,medium,Yes
+Neutral,AuthorLoyal,African Americans,Very High,long,Yes
+Negative,AuthorLoyal,"Africa, East",High,long,Yes
+Negative,AuthorLoyal,England,Very High,medium,Yes
+Neutral,AuthorLoyal,Fiction,Very High,long,Yes
+Neutral,AuthorLoyal,Business & Economics,Very High,long,Yes
+Neutral,AuthorLoyal,Fiction,Very High,medium,Yes
+Neutral,AuthorLoyal,Fiction,Very High,long,Yes
+Positive,AuthorLoyal,Fiction,Very High,medium,Yes
+Neutral,AuthorLoyal,Apartment houses,High,medium,Yes
+Neutral,AuthorLoyal,Apartment houses,High,medium,Yes
+Negative,AuthorLoyal,Fiction,Very High,long,Yes
+Positive,AuthorLoyal,Juvenile Fiction,High,short,Yes
+Neutral,AuthorLoyal,Biography & Autobiography,Very High,medium,Yes
+Neutral,AuthorLoyal,Literary Criticism,Medium,short,No
+Neutral,AuthorLoyal,Argentine literature,Very High,long,Yes
+Neutral,AuthorLoyal,Juvenile Fiction,Very High,short,Yes
+Neutral,AuthorLoyal,Crafts & Hobbies,High,short,Yes
+Neutral,AuthorLoyal,Crafts & Hobbies,High,short,Yes
+Neutral,AuthorLoyal,Crafts & Hobbies,High,short,Yes
+Neutral,AuthorLoyal,Crafts & Hobbies,High,long,Yes
+Neutral,AuthorLoyal,Crafts & Hobbies,High,short,Yes
+Neutral,AuthorLoyal,Crafts & Hobbies,High,short,Yes
+Neutral,AuthorLoyal,Crafts & Hobbies,High,long,Yes
+Neutral,AuthorLoyal,Crafts & Hobbies,Low,short,Yes
+Neutral,AuthorLoyal,Crafts & Hobbies,High,short,Yes
+Negative,AuthorLoyal,Juvenile Fiction,Very High,short,Yes
+Negative,AuthorLoyal,History,High,short,Yes
+Negative,AuthorLoyal,Biography & Autobiography,Very High,medium,Yes
+Neutral,AuthorLoyal,Juvenile Fiction,Very High,medium,Yes
+Negative,AuthorLoyal,Fiction,Very High,medium,Yes
+Negative,AuthorLoyal,Games,High,medium,Yes
+Neutral,DiverseReader,Espionage,Very High,medium,Yes
+Neutral,DiverseReader,Germany,Low,short,Yes
+Neutral,DiverseReader,Espionage,Very High,medium,Yes
+Neutral,DiverseReader,Germany,Low,short,No
+Neutral,DiverseReader,Germany,Low,short,Yes
+Neutral,DiverseReader,Fiction,Very High,medium,Yes
+Neutral,DiverseReader,Fiction,Very High,medium,Yes
+Negative,DiverseReader,Fiction,Very High,long,Yes
+Positive,DiverseReader,Biography & Autobiography,Very High,long,Yes
+Negative,DiverseReader,Fiction,Very High,long,Yes
+Negative,DiverseReader,Detective and mystery stories,Very High,medium,Yes
+Neutral,CasualReader,Literary Collections,Very High,medium,Yes
+Negative,CasualReader,Literary Collections,Very High,short,Yes
+Neutral,CasualReader,Literary Collections,Very High,medium,Yes
+Negative,CasualReader,Literary Collections,High,long,Yes
+Neutral,CasualReader,Literary Collections,Very High,long,Yes
+Neutral,CasualReader,Literary Collections,Very High,medium,Yes
+Negative,CasualReader,Literary Collections,Very High,long,Yes
+Neutral,CasualReader,Literary Collections,Very High,medium,Yes
+Neutral,CasualReader,Literary Collections,Very High,medium,Yes
+Neutral,CasualReader,Literary Collections,Medium,medium,Yes
+Neutral,CasualReader,Literary Collections,High,long,Yes
+Positive,CasualReader,Literary Collections,Very High,long,Yes
+Negative,CasualReader,Literary Collections,Very High,medium,Yes
+Neutral,CasualReader,Literary Collections,Very High,medium,Yes
+Negative,CasualReader,Fiction,Very High,long,Yes
+Neutral,CasualReader,Fiction,Very High,long,Yes
+Neutral,CasualReader,Fiction,Very High,medium,Yes
+Neutral,CasualReader,Fiction,Very High,long,Yes
+Positive,CasualReader,Fiction,Very High,long,Yes
+Neutral,CasualReader,Art,High,medium,Yes
+Negative,AuthorLoyal,Historical fiction,High,medium,Yes
+Negative,AuthorLoyal,Historical fiction,High,medium,Yes
+Neutral,AuthorLoyal,Meditation,Low,medium,Yes
+Neutral,AuthorLoyal,Historical fiction,Very High,long,Yes
+Neutral,AuthorLoyal,Meditation,Low,medium,No
+Neutral,AuthorLoyal,Historical fiction,Very High,long,Yes
+Negative,AuthorLoyal,Fiction,Medium,medium,No
+Negative,AuthorLoyal,Fiction,Very High,medium,Yes
+Neutral,AuthorLoyal,Fiction,Very High,medium,Yes
+Negative,AuthorLoyal,History,Very High,long,Yes
+Neutral,AuthorLoyal,Literary Criticism,Very High,long,Yes
+Positive,AuthorLoyal,Adventure stories,Very High,short,Yes
+Negative,CasualReader,Friendship,High,short,Yes
+Negative,CasualReader,Friendship,High,short,Yes
+Negative,CasualReader,Friendship,Very High,long,Yes
+Negative,CasualReader,Friendship,Very High,long,Yes
+Negative,CasualReader,Adolescence,Very High,medium,Yes
+Neutral,CasualReader,Art,Very High,medium,Yes
+Neutral,CasualReader,Fiction,Very High,medium,Yes
+Neutral,CasualReader,Juvenile Fiction,Very High,medium,Yes
+Positive,CasualReader,Fiction,High,medium,Yes
+Neutral,CasualReader,Biography & Autobiography,Very High,long,Yes
+Neutral,DiverseReader,"Cooking, French",High,medium,Yes
+Neutral,DiverseReader,"Cooking, French",High,medium,Yes
+Negative,DiverseReader,"Authors, American",High,medium,Yes
+Neutral,DiverseReader,Juvenile Nonfiction,Very High,short,Yes
+Negative,DiverseReader,Comics & Graphic Novels,Very High,short,Yes
+Positive,DiverseReader,"Blake, Anita (Fictitious character)",Very High,medium,Yes
+Negative,DiverseReader,Detective and mystery stories,Very High,medium,Yes
+Neutral,DiverseReader,Literary Collections,Very High,long,Yes
+Negative,CasualReader,Demonology,Very High,long,Yes
+Negative,CasualReader,Demonology,Very High,long,Yes
+Positive,CasualReader,Dangerously mentally ill,Very High,long,Yes
+Positive,CasualReader,Dangerously mentally ill,Very High,long,Yes
+Neutral,CasualReader,Juvenile Fiction,Very High,medium,Yes
+Neutral,CasualReader,Comics & Graphic Novels,Very High,short,Yes
+Negative,CasualReader,Fiction,Very High,short,Yes
+Negative,CasualReader,Fiction,Very High,medium,Yes
+Negative,CasualReader,Comics & Graphic Novels,Very High,medium,Yes
+Positive,CasualReader,Fiction,Very High,short,Yes
+Neutral,AuthorLoyal,Adirondack Mountains (N.Y.),Very High,short,Yes
+Neutral,AuthorLoyal,Adirondack Mountains (N.Y.),Very High,short,Yes
+Negative,AuthorLoyal,Comics & Graphic Novels,Very High,medium,Yes
+Neutral,AuthorLoyal,Fiction,Very High,long,Yes
+Neutral,AuthorLoyal,Biography & Autobiography,Very High,medium,Yes
+Neutral,AuthorLoyal,First loves,Very High,short,Yes
+Neutral,AuthorLoyal,Juvenile Fiction,Medium,short,Yes
+Negative,AuthorLoyal,Alcestis (Greek mythology),High,long,Yes
+Neutral,CasualReader,Canadian wit and humor,Very High,medium,Yes
+Neutral,CasualReader,Canadian wit and humor,Very High,medium,Yes
+Neutral,CasualReader,Adult education,Very High,short,Yes
+Neutral,CasualReader,Adult education,Very High,short,Yes
+Negative,CasualReader,Comics & Graphic Novels,Very High,short,Yes
+Neutral,CasualReader,Fiction,Very High,medium,Yes
+Neutral,CasualReader,Political Science,Very High,long,Yes
+Neutral,CasualReader,Fiction,Very High,medium,Yes
+Neutral,CasualReader,Art,High,short,No
+Neutral,CasualReader,"Animals, Mythical",Very High,medium,Yes
+Neutral,AuthorLoyal,Botanique,Low,short,No
+Neutral,AuthorLoyal,Botanique,Low,short,Yes
+Neutral,AuthorLoyal,Botanique,Low,short,Yes
+Positive,AuthorLoyal,Poetry,Very High,short,Yes
+Neutral,AuthorLoyal,History,Very High,long,Yes
+Neutral,AuthorLoyal,Music,Medium,short,No
+Negative,AuthorLoyal,Literary Criticism,Very High,medium,Yes
+Negative,AuthorLoyal,Fiction,Very High,long,Yes
+Neutral,AuthorLoyal,Literary Criticism,High,short,No
+Neutral,AuthorLoyal,Folklore,Medium,short,No
+Neutral,AuthorLoyal,Folklore,Medium,short,Yes
+Neutral,AuthorLoyal,Consumer behavior,Medium,medium,Yes
+Neutral,AuthorLoyal,Folklore,Medium,short,Yes
+Neutral,AuthorLoyal,Consumer behavior,Medium,medium,No
+Neutral,AuthorLoyal,Consumer behavior,Medium,medium,Yes
+Neutral,AuthorLoyal,Biography & Autobiography,Very High,long,Yes
+Neutral,AuthorLoyal,Medical,Very High,medium,Yes
+Negative,AuthorLoyal,Fiction,Very High,medium,Yes
+Neutral,AuthorLoyal,Cooking,Very High,medium,Yes
+Negative,AuthorLoyal,Fiction,Very High,medium,Yes
+Negative,AuthorLoyal,Fiction,Very High,medium,Yes
+Positive,DiverseReader,Civil law,Very High,short,Yes
+Positive,DiverseReader,Civil law,Very High,short,Yes
+Negative,DiverseReader,Fiction,Very High,long,Yes
+Neutral,DiverseReader,Fiction,Very High,medium,Yes
+Neutral,DiverseReader,Juvenile Fiction,Very High,medium,Yes
+Neutral,DiverseReader,Fiction,Very High,long,Yes
+Positive,DiverseReader,Cooking,Very High,medium,Yes
+Negative,DiverseReader,Juvenile Fiction,Very High,short,Yes
+Positive,DiverseReader,Language and languages,Very High,medium,Yes
+Negative,DiverseReader,"Science fiction, American",Very High,medium,Yes
+Negative,DiverseReader,"Science fiction, American",Very High,medium,Yes
+Positive,DiverseReader,"Science fiction, American",High,long,Yes
+Positive,DiverseReader,"Science fiction, American",High,long,Yes
+Negative,DiverseReader,Biography & Autobiography,Very High,medium,Yes
+Neutral,DiverseReader,Biography & Autobiography,Very High,medium,Yes
+Positive,DiverseReader,Fiction,Very High,medium,Yes
+Negative,DiverseReader,Fiction,Very High,long,Yes
+Neutral,DiverseReader,History,Very High,long,Yes
+Negative,DiverseReader,Fiction,Very High,long,Yes
+Neutral,CasualReader,College teachers,Very High,short,Yes
+Neutral,CasualReader,College teachers,Very High,short,Yes
+Neutral,CasualReader,College teachers,Very High,short,Yes
+Neutral,CasualReader,Sex customs,Very High,short,Yes
+Neutral,CasualReader,Sex customs,Very High,short,Yes
+Negative,CasualReader,Misogyny,Very High,medium,Yes
+Neutral,CasualReader,"American wit and humor, Pictorial",Very High,short,Yes
+Negative,CasualReader,Elves,Very High,long,Yes
+Neutral,CasualReader,Juvenile Fiction,Very High,short,Yes
+Negative,CasualReader,Fiction,Very High,medium,Yes
+Negative,CasualReader,Fiction,Very High,long,Yes
+Neutral,AuthorLoyal,Health & Fitness,High,short,Yes
+Positive,AuthorLoyal,England,Very High,long,Yes
+Negative,AuthorLoyal,England,Very High,medium,Yes
+Positive,AuthorLoyal,Health & Fitness,Very High,medium,Yes
+Neutral,AuthorLoyal,Health & Fitness,Medium,medium,No
+Negative,AuthorLoyal,Health & Fitness,Very High,medium,Yes
+Neutral,AuthorLoyal,Health & Fitness,Very High,medium,Yes
+Neutral,AuthorLoyal,Health & Fitness,Very High,medium,Yes
+Neutral,AuthorLoyal,Health & Fitness,Low,short,Yes
+Neutral,AuthorLoyal,Health & Fitness,Very High,medium,Yes
+Negative,AuthorLoyal,Health & Fitness,Very High,long,Yes
+Neutral,AuthorLoyal,Health & Fitness,High,medium,Yes
+Neutral,AuthorLoyal,Health & Fitness,High,medium,Yes
+Neutral,AuthorLoyal,England,Very High,medium,Yes
+Positive,AuthorLoyal,Science,Very High,short,Yes
+Neutral,AuthorLoyal,Juvenile Fiction,Very High,short,Yes
+Neutral,AuthorLoyal,Performing Arts,Very High,long,Yes
+Neutral,AuthorLoyal,Cooking,Medium,short,No
+Negative,AuthorLoyal,Fiction,Very High,long,Yes
+Neutral,AuthorLoyal,Literary Criticism,High,medium,Yes
+Positive,DiverseReader,"Novelists, English",Low,short,Yes
+Neutral,DiverseReader,Estados Unidos - Relaciones exteriores - 1945-1989,Very High,long,Yes
+Neutral,DiverseReader,Estados Unidos - Relaciones exteriores - 1945-1989,Very High,long,Yes
+Positive,DiverseReader,"Novelists, English",Low,short,No
+Positive,DiverseReader,"Novelists, English",Low,short,Yes
+Neutral,DiverseReader,Biography & Autobiography,Medium,long,No
+Neutral,DiverseReader,Fiction,Very High,medium,Yes
+Negative,DiverseReader,Comics & Graphic Novels,Very High,medium,Yes
+Negative,DiverseReader,Education,Very High,medium,Yes
+Negative,DiverseReader,History,Very High,long,Yes
+Positive,DiverseReader,History,High,medium,Yes
+Neutral,GenreFan,Igbo (African people),High,short,Yes
+Neutral,GenreFan,Igbo (African people),High,short,Yes
+Positive,GenreFan,Fiction,Very High,medium,Yes
+Neutral,GenreFan,Design,Low,medium,Yes
+Neutral,GenreFan,Juvenile Fiction,Very High,short,Yes
+Neutral,GenreFan,Fiction,Very High,medium,Yes
+Positive,GenreFan,Fiction,Very High,long,Yes
+Neutral,GenreFan,Law,High,long,No
+Negative,CasualReader,Aging,Very High,short,Yes
+Negative,CasualReader,Aging,Very High,short,Yes
+Neutral,CasualReader,Political Science,Low,short,Yes
+Neutral,CasualReader,Fiction,Very High,medium,Yes
+Neutral,CasualReader,Family & Relationships,Very High,medium,Yes
+Negative,CasualReader,Juvenile Fiction,Very High,medium,Yes
+Negative,CasualReader,other,Very High,long,Yes
+Neutral,CasualReader,Fiction,Very High,medium,Yes
+Positive,DiverseReader,"Novelists, English",Low,short,Yes
+Positive,DiverseReader,"Novelists, English",Low,short,No
+Positive,DiverseReader,"Novelists, English",Low,short,Yes
+Neutral,DiverseReader,Science,High,medium,No
+Positive,DiverseReader,Computers,Very High,short,Yes
+Negative,DiverseReader,Young Adult Fiction,Very High,medium,Yes
+Negative,DiverseReader,Fiction,Very High,medium,Yes
+Positive,DiverseReader,other,Very High,short,Yes
+Positive,DiverseReader,History,Very High,medium,Yes
+Positive,AuthorLoyal,Animals,Very High,medium,Yes
+Positive,AuthorLoyal,Animals,Very High,medium,Yes
+Neutral,AuthorLoyal,Computer science,High,long,Yes
+Neutral,AuthorLoyal,Biography & Autobiography,Low,medium,Yes
+Neutral,AuthorLoyal,Fiction,Very High,medium,Yes
+Neutral,AuthorLoyal,Juvenile Fiction,Very High,short,Yes
+Positive,AuthorLoyal,Fiction,Very High,short,Yes
+Negative,AuthorLoyal,Autism,Very High,short,Yes
+Neutral,GenreFan,"Theology, Doctrinal",Very High,long,Yes
+Neutral,GenreFan,"Theology, Doctrinal",Very High,long,Yes
+Neutral,GenreFan,Literary Criticism,High,short,Yes
+Positive,GenreFan,Fiction,Very High,long,Yes
+Neutral,GenreFan,Fiction,Very High,long,Yes
+Neutral,GenreFan,Social Science,Very High,short,Yes
+Positive,GenreFan,Comics & Graphic Novels,High,medium,No
+Negative,GenreFan,Fiction,Very High,medium,Yes
+Neutral,AuthorLoyal,Bibles,Very High,long,Yes
+Negative,AuthorLoyal,Children of the rich,Very High,long,Yes
+Neutral,AuthorLoyal,Bibles,Very High,long,Yes
+Positive,AuthorLoyal,Children of the rich,High,medium,Yes
+Negative,AuthorLoyal,Children of the rich,Very High,long,Yes
+Neutral,AuthorLoyal,Bibles,High,short,Yes
+Neutral,AuthorLoyal,Bibles,High,short,Yes
+Neutral,AuthorLoyal,Bibles,Very High,long,Yes
+Negative,AuthorLoyal,Fiction,Very High,long,Yes
+Neutral,AuthorLoyal,Fiction,Very High,medium,Yes
+Neutral,AuthorLoyal,History,Very High,medium,Yes
+Positive,AuthorLoyal,Political Science,Very High,medium,Yes
+Positive,AuthorLoyal,Magic,Medium,medium,No
+Negative,AuthorLoyal,Fiction,Very High,medium,Yes
+Negative,CasualReader,Organized Crime,Medium,long,Yes
+Negative,CasualReader,Organized Crime,Medium,long,No
+Negative,CasualReader,Organized Crime,Medium,long,Yes
+Neutral,CasualReader,BIOGRAPHY & AUTOBIOGRAPHY,Low,long,No
+Negative,CasualReader,Fiction,Very High,long,Yes
+Neutral,CasualReader,Fiction,Very High,medium,Yes
+Negative,CasualReader,Drama,Very High,short,Yes
+Negative,CasualReader,Fiction,Very High,short,Yes
+Negative,CasualReader,Fiction,Very High,medium,Yes
+Negative,CasualReader,Obesity,Medium,short,Yes
+Negative,CasualReader,Obesity,Medium,short,No
+Negative,CasualReader,Obesity,Medium,short,Yes
+Neutral,CasualReader,Fiction,Very High,long,Yes
+Neutral,CasualReader,Computers,High,medium,No
+Negative,CasualReader,Fiction,Very High,long,Yes
+Positive,CasualReader,Juvenile Fiction,Very High,short,Yes
+Negative,CasualReader,Fiction,Very High,long,Yes
+Positive,CasualReader,Biography & Autobiography,Very High,medium,Yes
+Positive,DiverseReader,Civil law,Very High,short,Yes
+Positive,DiverseReader,Civil law,Very High,short,Yes
+Negative,DiverseReader,Fiction,Very High,medium,Yes
+Positive,DiverseReader,Juvenile Fiction,Very High,short,Yes
+Neutral,DiverseReader,Science,Very High,medium,Yes
+Neutral,DiverseReader,Adventure stories,Very High,short,Yes
+Negative,DiverseReader,Detective and mystery stories,Very High,medium,Yes
+Neutral,DiverseReader,Fiction,Very High,medium,Yes
+Neutral,GenreFan,Consumer behavior,Medium,medium,Yes
+Neutral,GenreFan,Consumer behavior,Medium,medium,No
+Neutral,GenreFan,Consumer behavior,Medium,medium,Yes
+Neutral,GenreFan,Poetry,Very High,long,Yes
+Positive,GenreFan,Comics & Graphic Novels,Very High,short,Yes
+Negative,GenreFan,"Detective and mystery stories, American",Very High,long,Yes
+Positive,GenreFan,Juvenile Nonfiction,High,short,No
+Neutral,GenreFan,Self-Help,Very High,short,Yes
+Neutral,GenreFan,Humor,Very High,medium,Yes
+Negative,DiverseReader,"Novelists, American",Very High,medium,Yes
+Negative,DiverseReader,"Novelists, American",Very High,medium,Yes
+Neutral,DiverseReader,History,Very High,medium,Yes
+Positive,DiverseReader,Air pilots,Very High,medium,Yes
+Negative,DiverseReader,Fiction,Very High,medium,Yes
+Neutral,DiverseReader,History,Very High,medium,Yes
+Neutral,DiverseReader,Social Science,Very High,medium,Yes
+Neutral,DiverseReader,Self-Help,Very High,long,Yes
+Negative,DiverseReader,China,Very High,short,Yes
+Neutral,DiverseReader,Christianity,Very High,long,Yes
+Positive,DiverseReader,Christianity,Very High,short,Yes
+Negative,DiverseReader,China,Very High,short,Yes
+Neutral,DiverseReader,Christianity,Very High,long,Yes
+Positive,DiverseReader,Christianity,Very High,short,Yes
+Neutral,DiverseReader,Fiction,Very High,medium,Yes
+Negative,DiverseReader,Fiction,Very High,long,Yes
+Neutral,DiverseReader,"Body, Mind & Spirit",Very High,long,Yes
+Neutral,DiverseReader,Fiction,Very High,medium,Yes
+Positive,DiverseReader,Religion,Very High,short,Yes
+Negative,DiverseReader,Humor,Very High,short,Yes
+Negative,CasualReader,Brothers and sisters,Very High,medium,Yes
+Negative,CasualReader,Brothers and sisters,Very High,medium,Yes
+Neutral,CasualReader,Children's plays,High,medium,Yes
+Neutral,CasualReader,Children's plays,High,medium,Yes
+Negative,CasualReader,Fiction,Very High,short,Yes
+Negative,CasualReader,Fiction,High,long,Yes
+Negative,CasualReader,Fiction,Very High,medium,Yes
+Negative,CasualReader,Fiction,Very High,medium,Yes
+Neutral,CasualReader,Fiction,Very High,long,Yes
+Neutral,CasualReader,Fiction,Very High,medium,Yes
+Neutral,AuthorLoyal,Paris (France),Low,medium,Yes
+Positive,AuthorLoyal,Amish,Very High,long,Yes
+Neutral,AuthorLoyal,Paris (France),Low,medium,Yes
+Neutral,AuthorLoyal,Paris (France),Low,medium,No
+Positive,AuthorLoyal,Amish,Very High,long,Yes
+Positive,AuthorLoyal,Fiction,Very High,medium,Yes
+Positive,AuthorLoyal,History,Very High,medium,Yes
+Neutral,AuthorLoyal,Nature,Very High,long,Yes
+Neutral,AuthorLoyal,"Body, Mind & Spirit",Very High,long,Yes
+Neutral,AuthorLoyal,Law,Medium,long,No
+Neutral,AuthorLoyal,Philosophy,Very High,long,Yes
+Negative,AuthorLoyal,Children of Holocaust survivors,Very High,medium,Yes
+Negative,AuthorLoyal,Children of Holocaust survivors,Very High,medium,Yes
+Neutral,AuthorLoyal,Fiction,Very High,long,Yes
+Neutral,AuthorLoyal,Fiction,Very High,medium,Yes
+Positive,AuthorLoyal,Religion,Very High,short,Yes
+Neutral,AuthorLoyal,Fiction,Very High,long,Yes
+Neutral,AuthorLoyal,Juvenile Fiction,Very High,medium,Yes
+Negative,AuthorLoyal,Juvenile Fiction,Very High,short,Yes
+Neutral,AuthorLoyal,Christmas stories,Medium,medium,Yes
+Neutral,AuthorLoyal,Christian life,Very High,short,Yes
+Neutral,AuthorLoyal,Christian life,Very High,short,Yes
+Neutral,AuthorLoyal,Christian life,Very High,short,Yes
+Neutral,AuthorLoyal,Christian life,Very High,short,Yes
+Negative,AuthorLoyal,Christmas stories,Very High,medium,Yes
+Neutral,AuthorLoyal,Christmas stories,Medium,medium,Yes
+Positive,AuthorLoyal,Christian life,Medium,medium,No
+Negative,AuthorLoyal,English fiction,Very High,medium,Yes
+Neutral,AuthorLoyal,Religion,Very High,short,Yes
+Neutral,AuthorLoyal,Fiction,Very High,medium,Yes
+Negative,AuthorLoyal,Fiction,Very High,medium,Yes
+Negative,AuthorLoyal,Fiction,Very High,long,Yes
+Negative,AuthorLoyal,Fiction,Very High,medium,Yes
+Positive,GenreFan,Clergy,Very High,long,Yes
+Positive,GenreFan,Clergy,Very High,long,Yes
+Neutral,GenreFan,Igbo (African people),High,short,No
+Negative,GenreFan,Fiction,Very High,long,Yes
+Neutral,GenreFan,Fiction,Very High,medium,Yes
+Neutral,GenreFan,Travel,High,long,No
+Neutral,GenreFan,Poetry,Very High,short,Yes
+Neutral,GenreFan,Fiction,Very High,long,Yes
+Negative,CasualReader,Boarding school-fiction,Very High,medium,Yes
+Negative,CasualReader,Boarding school-fiction,Very High,medium,Yes
+Neutral,CasualReader,Fiction,Very High,long,Yes
+Neutral,CasualReader,Philosophy,Very High,long,Yes
+Neutral,CasualReader,Fiction,Very High,medium,Yes
+Neutral,CasualReader,Fiction,Very High,medium,Yes
+Positive,CasualReader,Literary Collections,Very High,long,Yes
+Neutral,CasualReader,Fiction,Very High,medium,Yes
+Neutral,CasualReader,"Short stories, English",Very High,long,Yes
+Negative,CasualReader,Gambling,Very High,medium,Yes
+Negative,CasualReader,Gambling,Very High,medium,Yes
+Neutral,CasualReader,"Short stories, English",Very High,long,Yes
+Negative,CasualReader,Fiction,Very High,long,Yes
+Neutral,CasualReader,Philosophy,Very High,medium,Yes
+Neutral,CasualReader,Allegories,Very High,medium,Yes
+Neutral,CasualReader,Philosophy,Very High,long,Yes
+Negative,CasualReader,"Nanjing (Jiangsu Sheng, China)",High,medium,Yes
+Neutral,CasualReader,Fiction,Very High,long,Yes
